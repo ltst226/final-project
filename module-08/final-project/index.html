@@ -1,0 +1,193 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Module 08 Project</title>
+    
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/simple-statistics/1.0.0/simple_statistics.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js"></script>
+    <script src="http://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
+    
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+
+    <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+            background: whitesmoke;
+            font-family: Montserrat, sans-serif;
+        }
+        #map {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            bottom: 0;
+        }
+        #info {
+            position: absolute;
+            max-width: 200px;
+            right: 15px;
+            top: 15px;
+            display: none;
+            background: whitesmoke;
+            border: 2px solid #2B6832;
+            border-radius: 3px;
+            padding: 8px 15px;
+            color: #2B6832;
+            font-size: 1em;
+        }
+         #info p {
+            margin: 3px 0 4px;
+        }
+        .year-slider {
+            width: 100%;
+        }
+        #ui-controls .min {
+            float: left;   
+        }
+        #ui-controls .max {
+            float: right;
+        }
+        #ui-controls {
+            width: 176px;
+            padding: 8px, 15px, 8px, 15px;
+            background: rgba(75,75,75,0.8);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px;
+            color: whitesmoke;
+            position: absolute;
+            bottom: 30px;
+            left: 30px;
+        }
+    </style>
+</head>
+<body>
+    
+        <div id='map'></div>
+        <div id='ui-controls'>
+        <label><span class="min">Jan 2015</span><span class="max"> May 2016</span><input type="range" min="1" max="17" step="1" value="1" class="year-slider"></input></label>
+        </div>
+        <div id="info">
+        <p>Offense: <span></span> </p>
+        <p class="date">Date: <span></span></p>
+        <p class="attribute">Attribute: <span></span></p>
+    </div>
+
+<script>
+    
+    var options = {
+        center: [38.035, -84.50],
+        zoom: 15,
+        minZoom: 4,
+        maxZoom: 20,
+        dragging: true,
+        zoomControl: true
+    }
+    
+    var map = L.map('map', options);
+    
+    var Stamen_Toner = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.{ext}', {
+	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	           subdomains: 'abcd',
+	           minZoom: 0,
+	           maxZoom: 20,
+	           ext: 'png'
+        }).addTo(map);
+    
+    var point,
+        min = 1,
+        max = 17,
+        attribute = 1;
+    
+    var style = {
+        color: 'blue',
+        fillColor: 'red',
+        fillOpacity: 1,
+        radius: 5
+    }
+    drawMap();
+    
+    function drawMap() {
+    
+    $.getJSON("uk-thefts.json", function(data) {
+        point = L.geoJson(data, {
+            pointToLayer: function(feature, layer) {
+                return L.circleMarker(layer, style);
+            },
+            filter: function(feature) {
+                if(feature.properties.Attribute == attribute){
+                    return feature;
+                }
+            }
+        }).addTo(map);
+    var info = $('#info');
+        
+        point.on('mouseover', function(e) {
+            var props = e.layer.feature.properties;
+            info.show();
+            $('#info span').text(props["Incident D"]);
+            $('.date span:first-child').text(props["Crime Date"]);
+            $('.attribute span:first-child').text(props.Attribute);
+            
+            e.layer.setStyle({fillOpacity: .6});
+        });
+        point.on('mouseout', function(e) {
+            info.hide();
+            e.layer.setStyle({fillOpacity: 1});
+        });
+        $(document).mousemove(function(e){
+            info.css({"left": e.pageX + 6, "top": e.pageY - info.height()-15});
+            if(info.offset().top < 4) {
+                info.css({"top": e.pageY + 15});
+                }
+                
+            if(info.offset().left + info.width() >= $(document).width()-60) {
+                    info.css({"left": e.pageX - info.width() - 30});
+                   }
+        });
+        
+        createSliderUI();
+    })
+    }
+    
+    function updateMap(data){
+        
+    }
+    function heatMap() {
+        
+        L.tileLayer.maskCanvas();
+        layer.setData(point);
+        map.addLayer(layer);
+        
+    }
+    
+    
+    function createSliderUI() {
+        var sliderControl = L.control({position: 'bottomleft'});
+        sliderControl.onAdd = function(map) {
+            var slider = L.DomUtil.get('ui-controls');
+            L.DomEvent.addListener(slider, 'mousedown', function(e) {
+                L.DomEvent.stopPropagation(e);
+            });
+            return slider
+        }
+        sliderControl.addTo(map);
+        $('.year-slider')
+            .on('input change', function() {
+                attribute=$(this).val();
+                updateMap();
+        });
+    }
+    
+        
+
+    
+</script>
+</body>
+</html>

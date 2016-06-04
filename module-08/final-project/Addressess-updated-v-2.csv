@@ -1,0 +1,720 @@
+Address,Address (AllAddressesCombined),Bldg Name,Bldg Name (AllAddressesCombined),Bldg No.,Bldg No. (AllAddressesCombined),City,City (AllAddressesCombined),Code,Code (AllAddressesCombined),GIS Comments,State,State (AllAddressesCombined),Zip,LatDiff,LongDiff
+597 SOUTH UPPER ST,597 SOUTH UPPER ST,Taylor Education Bldg,Taylor Education Bldg,1,1,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041566,-84.505987
+110 SCOTT ST,110 SCOTT ST,SCOTT ST Bldg,SCOTT ST Bldg,2,2,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039634,-84.506717
+111 WASHINGTON AVE,111 WASHINGTON AVE,Research Facility #1,Research Facility #1,3,3,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035436,-84.506777
+598 SOUTH UPPER ST,598 SOUTH UPPER ST,Central Heating Plant #2,Central Heating Plant #2,4,4,Lexington,Lexington,0,0,KY,KY,40506,40506,38.054631,-84.487209
+411 SOUTH LIMESTONE ST,411 SOUTH LIMESTONE ST,Frank D. Peterson Service Bldg,Frank D. Peterson Service Bldg,5,5,Lexington,Lexington,0,0,KY,KY,40506,40506,38.04143,-84.503999
+101 AVENUE OF CHAMPIONS,101 AVENUE OF CHAMPIONS,Holmes Hall,Holmes Hall,6,6,Lexington,Lexington,0,0,KY,KY,40526,40526,38.041524,-84.503834
+103 AVENUE OF CHAMPIONS,103 AVENUE OF CHAMPIONS,Jewell Hall,Jewell Hall,7,7,Lexington,Lexington,0,0,KY,KY,40526,40526,38.041481,-84.50379
+124 CAMPUS DR,124 CAMPUS DR,Boyd Hall,Boyd Hall,8,8,Lexington,Lexington,0,0,KY,KY,40526,40526,38.041987,-84.502359
+335 SOUTH MLK BLVD,335 SOUTH MLK BLVD,Patterson Hall,Patterson Hall,9,9,Lexington,Lexington,0,0,KY,KY,40526,40526,38.041357,-84.500976
+342 SOUTH LIMESTONE ST,342 SOUTH LIMESTONE ST,Hamilton House,Hamilton House,10,10,Lexington,Lexington,0,0,KY,KY,40508,40508,38.041818,-84.501717
+121 CAMPUS DR,121 CAMPUS DR,Keeneland Hall,Keeneland Hall,11,11,Lexington,Lexington,0,0,KY,KY,40526,40526,38.042006,-84.502332
+343 SOUTH MLK BLVD,343 SOUTH MLK BLVD,Blazer Hall,Blazer Hall,12,12,Lexington,Lexington,0,0,KY,KY,40526,40526,38.040986,-84.501276
+2500 RESEARCH PARK DR,2500 RESEARCH PARK DR,KGS Core Library,KGS Core Library,13,13,Lexington,Lexington,84,84,KY,KY,40511,40511,38.135346,-84.510109
+500 ROSE ST,500 ROSE ST,Boone Faculty Center,Boone Faculty Center,14,14,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035114,-84.502191
+450 ROSE ST,450 ROSE ST,Sturgill (William B.) Development Bldg,Sturgill (William B.) Development Bldg,15,15,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036814,-84.501188
+140 HUGUELET DR,140 HUGUELET DR,Gatehouse KY Clinic,Gatehouse KY Clinic,16,16,Lexington,Lexington,0,0,KY,KY,40536,40536,38.033138,-84.505823
+251 SCOTT ST,251 SCOTT ST,Dickey Hall,Dickey Hall,17,17,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039659,-84.506698
+201 AVENUE OF CHAMPIONS,201 AVENUE OF CHAMPIONS,Memorial Coliseum,Memorial Coliseum,19,19,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039567,-84.501706
+531 SOUTH LIMESTONE ST,531 SOUTH LIMESTONE ST,Engineering Transportation Research Garage,Engineering Transportation Research Garage,20,20,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038435,-84.507142
+421 ROSE ST,421 ROSE ST,Old Engineers Residence,Old Engineers Residence,21,21,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037117,-84.501147
+465 ROSE ST,465 ROSE ST,Fine Arts Guignol Bldg,Fine Arts Guignol Bldg,22,22,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036926,-84.501959
+305 EUCLID AVE,305 EUCLID AVE,Police (Safety and Security),Police (Safety and Security),23,23,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037844,-84.499314
+150 PATTERSON DR,150 PATTERSON DR,Lafferty Hall,Lafferty Hall,24,24,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038142,-84.503058
+140 PATTERSON DR,140 PATTERSON DR,White Hall Classroom Bldg,White Hall Classroom Bldg,25,25,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038113,-84.503779
+180 AVENUE OF CHAMPIONS,180 AVENUE OF CHAMPIONS,Student Center Addition,Student Center Addition,26,26,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039828,-84.502039
+120 PATTERSON DR,120 PATTERSON DR,Patterson Office Tower,Patterson Office Tower,27,27,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038142,-84.503058
+408 ADMINISTRATION DR,408 ADMINISTRATION DR,Barker Hall,Barker Hall,28,28,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03902,-84.505081
+102 AVENUE OF CHAMPIONS,102 AVENUE OF CHAMPIONS,Alumni Gym,Alumni Gym,29,29,Lexington,Lexington,0,0,KY,KY,40506,40506,38.04147,-84.503826
+404 ADMINISTRATION DR,404 ADMINISTRATION DR,Student Center,Student Center,30,30,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03902,-84.505081
+406 ADMINISTRATION DR,406 ADMINISTRATION DR,Frazee Hall,Frazee Hall,31,31,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03902,-84.505081
+410 ADMINISTRATION DR,410 ADMINISTRATION DR,Main (Administration) Bldg,Main (Administration) Bldg,32,32,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038835,-84.504866
+502 ADMINISTRATION DR,502 ADMINISTRATION DR,Ezra Gillis Bldg,Ezra Gillis Bldg,33,33,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038923,-84.506528
+550 SOUTH LIMESTONE ST,550 SOUTH LIMESTONE ST,Carol Martin Gatton Business & Economics Bldg,Carol Martin Gatton Business & Economics Bldg,34,34,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037898,-84.506628
+504 ADMINISTRATION DR,504 ADMINISTRATION DR,Miller Hall,Miller Hall,35,35,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038948,-84.506631
+620 GLADSTONE AVE,620 GLADSTONE AVE,Gatehouse Gate 2,Gatehouse Gate 2,36,36,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03498,-84.506171
+109 STATE ST,109 STATE ST,109 STATE ST,109 STATE ST,37,37,Lexington,Lexington,0,0,KY,KY,40503,40503,38.030383,-84.510682
+169 FUNKHOUSER DR,169 FUNKHOUSER DR,Engineering Annex (Mining Laboratory),Engineering Annex (Mining Laboratory),38,38,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035398,-84.504731
+179 FUNKHOUSER DR,179 FUNKHOUSER DR,Margaret I. King Library,Margaret I. King Library,39,39,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035398,-84.504731
+471 ROSE ST,471 ROSE ST,Maxwell Place,Maxwell Place,40,40,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036421,-84.502063
+175 FUNKHOUSER DR,175 FUNKHOUSER DR,Pence Hall,Pence Hall,41,41,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035398,-84.504731
+167 FUNKHOUSER DR,167 FUNKHOUSER DR,Grehan Journalism Bldg,Grehan Journalism Bldg,42,42,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035398,-84.504731
+533 SOUTH LIMESTONE ST,533 SOUTH LIMESTONE ST,Whalen (S. J. Sam) Transportation Bldg,Whalen (S. J. Sam) Transportation Bldg,43,43,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038381,-84.507161
+171 FUNKHOUSER DR,171 FUNKHOUSER DR,Kastle Hall,Kastle Hall,44,44,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035398,-84.504731
+155 GRAHAM AVE,155 GRAHAM AVE,McVey Hall,McVey Hall,45,45,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035445,-84.505688
+512 ADMINISTRATION DR,512 ADMINISTRATION DR,F. Paul Anderson Tower,F. Paul Anderson Tower,46,46,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037445,-84.505398
+606 SOUTH LIMESTONE ST,606 SOUTH LIMESTONE ST,C. W. Mathews Bldg,C. W. Mathews Bldg,47,47,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037508,-84.507375
+620 SOUTH LIMESTONE ST,620 SOUTH LIMESTONE ST,Law Building,Law Building,48,48,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036489,-84.507321
+610 SOUTH LIMESTONE ST,610 SOUTH LIMESTONE ST,Memorial Hall,Memorial Hall,49,49,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037402,-84.507413
+135 GRAHAM AVE,135 GRAHAM AVE,Erikson Hall,Erikson Hall,50,50,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035977,-84.506317
+120 GRAHAM AVE,120 GRAHAM AVE,Mineral Industries Bldg,Mineral Industries Bldg,51,51,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035591,-84.5059
+140 GRAHAM AVE,140 GRAHAM AVE,Terrell Civil Engineering Bldg,Terrell Civil Engineering Bldg,52,52,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035844,-84.506767
+121 WASHINGTON AVE,121 WASHINGTON AVE,Slone Research Bldg,Slone Research Bldg,53,53,Lexington,Lexington,0,0,KY,KY,40536,40536,38.035446,-84.507298
+160 FUNKHOUSER DR,160 FUNKHOUSER DR,Funkhouser Bldg,Funkhouser Bldg,54,54,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035398,-84.504731
+505 ROSE ST,505 ROSE ST,Chemistry-Physics Building,Chemistry-Physics Building,55,55,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035484,-84.503489
+168 FUNKHOUSER DR,168 FUNKHOUSER DR,Breckinridge Hall,Breckinridge Hall,56,56,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035398,-84.504731
+172 FUNKHOUSER DR,172 FUNKHOUSER DR,Kinkead Hall,Kinkead Hall,57,57,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035398,-84.504731
+545 ROSE ST,545 ROSE ST,Bradley Hall,Bradley Hall,58,58,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034537,-84.50447
+151 WASHINGTON AVE,151 WASHINGTON AVE,Bowman Hall,Bowman Hall,59,59,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034725,-84.505288
+150 WASHINGTON AVE,150 WASHINGTON AVE,Tobacco Research Laboratory,Tobacco Research Laboratory,61,61,Lexington,Lexington,0,0,KY,KY,40546,40546,38.034903,-84.506039
+1685 RUSSELL CAVE RD,1685 RUSSELL CAVE RD,Shed Ecological Research,Shed Ecological Research,63,63,Lexington,Lexington,0,0,KY,KY,40511,40511,,
+115 HUGUELET DR,115 HUGUELET DR,Scovell Hall,Scovell Hall,64,64,Lexington,Lexington,0,0,KY,KY,40546,40546,38.033138,-84.505823
+150 HUGUELET DR,150 HUGUELET DR,Small Animal Lab,Small Animal Lab,65,65,Lexington,Lexington,0,0,KY,KY,40546,40546,38.033138,-84.505823
+152 HUGUELET DR,152 HUGUELET DR,Agronomy Head House & Greenhouses 1 & 2,Agronomy Head House & Greenhouses 1 & 2,66,66,Lexington,Lexington,0,0,KY,KY,40546,40546,38.033138,-84.505823
+456 ROSE ST,456 ROSE ST,Chi Omega Sorority,Chi Omega Sorority,67,67,Lexington,Lexington,0,0,KY,KY,40508,40508,38.03646,-84.501689
+468 ROSE ST,468 ROSE ST,Delta Delta Delta Sorority,Delta Delta Delta Sorority,68,68,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036198,-84.50206
+476 ROSE ST,476 ROSE ST,Alpha Delta Pi Sorority,Alpha Delta Pi Sorority,69,69,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036067,-84.502243
+600 ROSE ST,600 ROSE ST,Wenner-Gren Research Lab,Wenner-Gren Research Lab,70,70,Lexington,Lexington,0,0,KY,KY,40536,40536,38.034111,-84.505031
+225 DONOVAN DR,225 DONOVAN DR,Food Storage Building,Food Storage Building,71,71,Lexington,Lexington,0,0,KY,KY,40506,40506,38.033406,-84.504937
+680 ROSE ST,680 ROSE ST,Donovan Hall,Donovan Hall,72,72,Lexington,Lexington,0,0,KY,KY,40506,40506,38.033463,-84.505924
+730 ROSE ST,730 ROSE ST,Cooper Forestry (Thomas Poe) Bldg,Cooper Forestry (Thomas Poe) Bldg,73,73,Lexington,Lexington,0,0,KY,KY,40546,40546,38.032946,-84.506704
+698 SPORTS CENTER DR,698 SPORTS CENTER DR,Shively Track & Field Stadium,Shively Track & Field Stadium,74,74,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+360 HUGUELET DR,360 HUGUELET DR,Kelley Building,Kelley Building,75,75,Lexington,Lexington,0,0,KY,KY,40536,40536,38.033336,-84.506076
+1081 VETERANS DR,1081 VETERANS DR,Dimmock Animal Pathology,Dimmock Animal Pathology,76,76,Lexington,Lexington,0,0,KY,KY,40546,40546,38.028938,-84.506316
+653 MAXWELTON CT.,653 MAXWELTON CT.,653 MAXWELTON CT.,653 MAXWELTON CT.,77,77,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036248,-84.509581
+1096 VETERANS DR,1096 VETERANS DR,Med Center Annex #5,Med Center Annex #5,78,78,Lexington,Lexington,0,0,KY,KY,40536,40536,38.028938,-84.506316
+361 HUGUELET DR,361 HUGUELET DR,Central Residence Hall II,Central Residence Hall II,79,79,Lexington,Lexington,1,1,KY,KY,40506,40506,38.031734,-84.504161
+340 HILLTOP AVE,340 HILLTOP AVE,Central Residence Hall I,Central Residence Hall I,80,80,Lexington,Lexington,1,1,KY,KY,40506,40506,38.032549,-84.503017
+300 ALUMNI DR,300 ALUMNI DR,Cooker Trailer Storage,Cooker Trailer Storage,81,81,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+725 ROSE ST,725 ROSE ST,Multi-Disciplinary Science Building (MDS),Multi-Disciplinary Science Building (MDS),82,82,Lexington,Lexington,0,0,KY,KY,40536,40536,38.03309,-84.506886
+453 COLUMBIA AVE,453 COLUMBIA AVE,453 COLUMBIA AVE,453 COLUMBIA AVE,83,83,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03284,-84.499226
+750 ROSE ST,Gatehouse Roach Bldg,Gatehouse Roach Bldg,84,84,Lexington,Lexington,0,0,KY,KY,40506,40506,38.032567,0.001073,1
+151 HOSPITAL DR,151 HOSPITAL DR,Medical Center Heating and Cooling Plant,Medical Center Heating and Cooling Plant,85,85,Lexington,Lexington,0,0,KY,KY,40536,40536,38.0316,-84.508214
+1100 VETERANS DR,1100 VETERANS DR,College of Medicine Office Bldg,College of Medicine Office Bldg,86,86,Lexington,Lexington,0,0,KY,KY,40536,40536,38.028938,-84.506316
+1530 COLLEGE WAY,1530 COLLEGE WAY,Medical Center Storage Facility,Medical Center Storage Facility,87,87,Lexington,Lexington,0,0,KY,KY,40536,40536,38.021369,-84.502069
+1505 COLLEGE WAY,1505 COLLEGE WAY,Agriculture Motor Pool,Agriculture Motor Pool,88,88,Lexington,Lexington,0,0,KY,KY,40546,40546,38.021608,-84.502162
+195 HOSPITAL DR,195 HOSPITAL DR,Cooling Plant #1,Cooling Plant #1,89,89,Lexington,Lexington,0,0,KY,KY,40506,40506,38.0316,-84.508214
+236 BOLIVAR AVE,236 BOLIVAR AVE,University Lofts,University Lofts,90,90,Lexington,Lexington,0,0,KY,KY,40508,40508,38.042542,-84.506675
+1100 SOUTH LIMESTONE ST,1100 SOUTH LIMESTONE ST,Agriculture Science Center North,Agriculture Science Center North,91,91,Lexington,Lexington,0,0,KY,KY,40546,40546,38.029911,-84.510024
+150 HOSPITAL DR,150 HOSPITAL DR,Seed House,Seed House,92,92,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+750 ROSE ST,750 ROSE ST,Ben Roach Cancer Care Facility,Ben Roach Cancer Care Facility,93,93,Lexington,Lexington,0,0,KY,KY,40536,40536,38.032456,-84.507403
+1312 NICHOLASVILLE RD,1312 NICHOLASVILLE RD,Cooper House,Cooper House,94,94,Lexington,Lexington,0,0,KY,KY,40546,40546,38.027959,-84.510708
+344 SOUTH MLK BLVD,344 SOUTH MLK BLVD,Champions Court I,Champions Court I,95,95,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041298,-84.500973
+181 AVENUE OF CHAMPIONS,181 AVENUE OF CHAMPIONS,Coffee Shop / Study Space - Champions I - proposed,Coffee Shop / Study Space - Champions I - proposed,0095A,0095A,Lexington,Lexington,0,0,KY,KY,40506,40506,,
+744 ROSE ST,744 ROSE ST,Combs Cancer Research Center,Combs Cancer Research Center,96,96,Lexington,Lexington,0,0,KY,KY,40536,40536,38.032456,-84.507403
+1451 UNIVERSITY DR,1451 UNIVERSITY DR,E. S. Goodbarn,E. S. Goodbarn,97,97,Lexington,Lexington,0,0,KY,KY,40546,40546,38.021847,-84.509461
+740 ROSE ST,740 ROSE ST,Whitney-Hendrickson Cancer Facility for Women (Pavilion WH),Whitney-Hendrickson Cancer Facility for Women (Pavilion WH),98,98,Lexington,Lexington,0,0,KY,KY,40536,40536,38.032456,-84.507403
+1400 NICHOLASVILLE RD,1400 NICHOLASVILLE RD,Gluck Equine Research Bldg,Gluck Equine Research Bldg,99,99,Lexington,Lexington,0,0,KY,KY,40546,40546,38.025674,-84.510817
+325 HUGUELET DR,325 HUGUELET DR,Haggin Hall,Haggin Hall,100,100,Lexington,Lexington,0,0,KY,KY,40506,40506,38.031734,-84.504161
+349 SCOTT ST,349 SCOTT ST,Reynolds Warehouse #1,Reynolds Warehouse #1,101,101,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039873,-84.507131
+351 SCOTT ST,351 SCOTT ST,Reynolds Warehouse #2,Reynolds Warehouse #2,102,102,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041971,-84.50879
+347 SCOTT ST,347 SCOTT ST,Reynolds Warehouse #3,Reynolds Warehouse #3,103,103,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041674,-84.509074
+720 WOODLAND AVE,720 WOODLAND AVE,Woodland Glen I,Woodland Glen I,104,104,Lexington,Lexington,0,0,KY,KY,40506,40506,38.031287,-84.50057
+1435 NICHOLASVILLE RD,1435 NICHOLASVILLE RD,Commonwealth Village #2,Commonwealth Village #2,105,105,Lexington,Lexington,0,0,KY,KY,40503,40503,38.025621,-84.511568
+1435 NICHOLASVILLE RD,1435 NICHOLASVILLE RD,Commonwealth Village #1,Commonwealth Village #1,106,106,Lexington,Lexington,0,0,KY,KY,40503,40503,38.025621,-84.511568
+504 ROSE ST,504 ROSE ST,Mining & Minerals Research Bldg,Mining & Minerals Research Bldg,107,107,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034849,-84.503367
+143 GRAHAM AVE,143 GRAHAM AVE,Robotics Facility,Robotics Facility,108,108,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035496,-84.505746
+550 WILDCAT CT,550 WILDCAT CT,Wendell & Vickie Bell Soccer Complex,Wendell & Vickie Bell Soccer Complex,109,109,Lexington,Lexington,0,0,KY,KY,40506,40506,38.018792,-84.501172
+704 SPORTS CENTER DR,704 SPORTS CENTER DR,Maintenance Bldg (Athletics),Maintenance Bldg (Athletics),110,110,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+712 SPORTS CENTER DR,712 SPORTS CENTER DR,Shively Sports Center,Shively Sports Center,113,113,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+HEDGER LN,HEDGER LN,Seigler Hall (UAV Shed),Seigler Hall (UAV Shed),116,116,Lexington,Lexington,0,0,KY,KY,40516,40516,,
+570 WILDCAT CT,570 WILDCAT CT,Soccer Filming Tower,Soccer Filming Tower,117,117,Lexington,Lexington,0,0,KY,KY,40506,40506,38.018792,-84.501172
+454 HILLTOP AVE,454 HILLTOP AVE,Fraternity House Storage,Fraternity House Storage,118,118,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032207,-84.502639
+400 ROSE ST,400 ROSE ST,Helen King Alumni Building,Helen King Alumni Building,119,119,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037521,-84.499817
+650 WOODLAND AVE,650 WOODLAND AVE,Woodland Glen II,Woodland Glen II,120,120,Lexington,Lexington,0,0,KY,KY,40506,40506,38.032115,-84.499403
+422 ROSE LN,422 ROSE LN,Sigma Nu Fraternity,Sigma Nu Fraternity,121,121,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035099,-84.499576
+450 PENNSYLVANIA AVE,450 PENNSYLVANIA AVE,Delta Gamma Sorority,Delta Gamma Sorority,122,122,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034071,-84.499518
+326 SOUTH MLK BLVD,326 SOUTH MLK BLVD,Champions Court II,Champions Court II,123,123,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041656,-84.500552
+319 COLUMBIA TER,319 COLUMBIA TER,Delta Zeta Sorority,Delta Zeta Sorority,124,124,Lexington,Lexington,0,0,KY,KY,40508,40508,38.035432,-84.502013
+329 COLUMBIA TER,329 COLUMBIA TER,Kappa Alpha Theta Sorority,Kappa Alpha Theta Sorority,125,125,Lexington,Lexington,0,0,KY,KY,40508,40508,38.035522,-84.501883
+327 COLUMBIA TER,327 COLUMBIA TER,Phi Delta Theta Fraternity,Phi Delta Theta Fraternity,126,126,Lexington,Lexington,0,0,KY,KY,40508,40508,38.035227,-84.500974
+325 COLUMBIA TER,325 COLUMBIA TER,Alpha Gamma Delta Sorority,Alpha Gamma Delta Sorority,127,127,Lexington,Lexington,0,0,KY,KY,40508,40508,38.035486,-84.501936
+323 COLUMBIA TER,323 COLUMBIA TER,Kappa Delta Sorority,Kappa Delta Sorority,128,128,Lexington,Lexington,0,0,KY,KY,40508,40508,38.035467,-84.501962
+321 COLUMBIA TER,321 COLUMBIA TER,Delta Sigma Phi Fraternity,Delta Sigma Phi Fraternity,129,129,Lexington,Lexington,0,0,KY,KY,40508,40508,38.035667,-84.501469
+419 HUGUELET DR,419 HUGUELET DR,Alpha Gamma Rho Fraternity,Alpha Gamma Rho Fraternity,137,137,Lexington,Lexington,0,0,KY,KY,40508,40508,38.033356,-84.506049
+439 HUGUELET DR,439 HUGUELET DR,Phi Sigma Kappa Fraternity,Phi Sigma Kappa Fraternity,138,138,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032557,-84.50512
+440 HILLTOP AVE,440 HILLTOP AVE,The 90,The 90,139,139,Lexington,Lexington,1,1,KY,KY,40506,40506,38.032221,-84.502654
+456 ROSE LN,456 ROSE LN,New Farmhouse Fraternity,New Farmhouse Fraternity,141,141,Lexington,Lexington,0,0,KY,KY,40506,40506,38.031834,-84.502641
+763 WOODLAND AVE,763 WOODLAND AVE,Blanding II,Blanding II,143,143,Lexington,Lexington,0,0,KY,KY,40526,40526,38.031112,-84.500862
+765 WOODLAND AVE,765 WOODLAND AVE,Blanding III,Blanding III,144,144,Lexington,Lexington,0,0,KY,KY,40526,40526,38.031101,-84.500877
+769 WOODLAND AVE,769 WOODLAND AVE,Blanding Tower,Blanding Tower,145,145,Lexington,Lexington,0,0,KY,KY,40526,40526,38.03108,-84.500905
+767 WOODLAND AVE,767 WOODLAND AVE,Blanding IV,Blanding IV,146,146,Lexington,Lexington,0,0,KY,KY,40526,40526,38.031091,-84.500891
+770 WOODLAND AVE,770 WOODLAND AVE,Complex Commons,Complex Commons,147,147,Lexington,Lexington,0,0,KY,KY,40526,40526,38.031014,-84.50094
+756 WOODLAND AVE,756 WOODLAND AVE,Kirwan IV,Kirwan IV,148,148,Lexington,Lexington,0,0,KY,KY,40526,40526,38.03106,-84.500878
+758 WOODLAND AVE,758 WOODLAND AVE,Kirwan Tower,Kirwan Tower,149,149,Lexington,Lexington,0,0,KY,KY,40526,40526,38.029441,-84.502532
+754 WOODLAND AVE,754 WOODLAND AVE,Kirwan III,Kirwan III,150,150,Lexington,Lexington,0,0,KY,KY,40526,40526,38.031067,-84.500869
+752 WOODLAND AVE,752 WOODLAND AVE,Kirwan II,Kirwan II,151,151,Lexington,Lexington,0,0,KY,KY,40526,40526,38.031073,-84.50086
+750 WOODLAND AVE,750 WOODLAND AVE,Kirwan I,Kirwan I,152,152,Lexington,Lexington,0,0,KY,KY,40526,40526,38.03108,-84.500851
+761 WOODLAND AVE,761 WOODLAND AVE,Blanding I,Blanding I,153,153,Lexington,Lexington,0,0,KY,KY,40526,40526,38.031122,-84.500848
+150 HOSPITAL DR,150 HOSPITAL DR,Head House,Head House,154,154,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 2,Greenhouse No 2,155,155,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 4,Greenhouse No 4,156,156,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 7,Greenhouse No 7,157,157,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 5,Greenhouse No 5,158,158,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 3,Greenhouse No 3,159,159,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 1,Greenhouse No 1,160,160,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 9,Greenhouse No 9,161,161,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 11,Greenhouse No 11,162,162,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 6,Greenhouse No 6,163,163,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+150 HOSPITAL DR,150 HOSPITAL DR,Greenhouse No 12,Greenhouse No 12,164,164,Lexington,Lexington,0,0,KY,KY,40546,40546,38.0316,-84.508214
+106 CONN TERRACE,106 CONN TERRACE,106 CONN TERRACE,106 CONN TERRACE,165,165,Lexington,Lexington,0,0,KY,KY,40503,40503,38.030774,-84.510807
+520 SOUTH LIMESTONE ST,520 SOUTH LIMESTONE ST,Gatehouse ADMINISTRATION DR.,Gatehouse ADMINISTRATION DR.,166,166,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038748,-84.506832
+525 ROSE ST,525 ROSE ST,Gatehouse Rose & Chem/Physics,Gatehouse Rose & Chem/Physics,167,167,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034656,-84.504301
+1505 COLLEGE WAY,1505 COLLEGE WAY,Motor Pool Storage Shed,Motor Pool Storage Shed,168,168,Lexington,Lexington,0,0,KY,KY,40506,40506,,
+200 AVENUE OF CHAMPIONS,200 AVENUE OF CHAMPIONS,Gatehouse Student Center,Gatehouse Student Center,170,170,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039549,-84.501734
+470 ROSE LN,470 ROSE LN,Alpha Gamma Rho Fraternity (AGR),Alpha Gamma Rho Fraternity (AGR),172,172,Lexington,Lexington,0,0,KY,KY,38.033612,-84.497604,,
+140 HUGUELET DR,140 HUGUELET DR,Gatehouse Med Plaza,Gatehouse Med Plaza,173,173,Lexington,Lexington,0,0,KY,KY,40506,40506,38.033138,-84.505823
+305 HUGUELET DR,305 HUGUELET DR,Academic Science Building,Academic Science Building,174,174,Lexington,Lexington,0,0,KY,KY,40506,40506,38.031734,-84.504161
+140 HUGUELET DR,140 HUGUELET DR,Gatehouse Med Plaza,Gatehouse Med Plaza,175,175,Lexington,Lexington,KY,KY,40506,40506,38.03417,-84.507069,-84.505823,0.002278
+140 HUGUELET DR,140 HUGUELET DR,Gatehouse KY Clinic,Gatehouse KY Clinic,176,176,Lexington,Lexington,0,0,KY,KY,40506,40506,38.033138,-84.505823
+1510 COLLEGE WAY,1510 COLLEGE WAY,Residence Motor Pool,Residence Motor Pool,177,177,Lexington,Lexington,0,0,KY,KY,40546,40546,38.021526,-84.501982
+449 HILLTOP AVE,449 HILLTOP AVE,Gatehouse Young Library,Gatehouse Young Library,178,178,Lexington,Lexington,0,0,KY,KY,40506,40506,38.031622,-84.501924
+113 STATE ST,113 STATE ST,113 STATE ST,113 STATE ST,180,180,Lexington,Lexington,0,0,KY,KY,40503,40503,38.030429,-84.510882
+685 SPORTS CENTER DR,685 SPORTS CENTER DR,Woodland Glen III,Woodland Glen III,181,181,Lexington,Lexington,0,0,Proposed Construction,KY,KY,40506,0.003257,0.001375
+1525 COLLEGE WAY,1525 COLLEGE WAY,Isolation Barn Incinerator,Isolation Barn Incinerator,182,182,Lexington,Lexington,0,0,KY,KY,40536,40536,38.021553,-84.502007
+1531 COLLEGE WAY,1531 COLLEGE WAY,Isolation Barn,Isolation Barn,183,183,Lexington,Lexington,0,0,KY,KY,40536,40536,38.021553,-84.502007
+411 STADIUM VIEW,411 STADIUM VIEW,Agricultural Machine Research Lab,Agricultural Machine Research Lab,184,184,Lexington,Lexington,0,0,KY,KY,40546,40546,38.02031,-84.501818
+1510 COLLEGE WAY,1510 COLLEGE WAY,Garage by Motor Pool Residence,Garage by Motor Pool Residence,185,185,Lexington,Lexington,0,0,KY,KY,40546,40546,38.021526,-84.501982
+703 SPORTS CENTER DR,703 SPORTS CENTER DR,Woodland Glen IV,Woodland Glen IV,186,186,Lexington,Lexington,0,0,Proposed Construction,KY,KY,40506,0.001663,0.000379
+1540 UNIVERSITY DR,Bus Shelter #5(Stadium Blue Lot),Bus Shelter #5(Stadium Blue Lot),187,187,Lexington,Lexington,0,0,KY,KY,40506,40506,38.02094023,0.0010682,1
+693 SPORTS CENTER DR,693 SPORTS CENTER DR,Woodland Glen V,Woodland Glen V,188,188,Lexington,Lexington,0,0,Proposed Construction,KY,KY,40506,0.002903,0.00029
+1608 UNIVERSITY CT,1608 UNIVERSITY CT Apts A101-A315,Shawneetown Bldg A,Shawneetown Bldg A,189,189,Lexington,Lexington,0,0,KY,KY,40503,40503,38.010336,-84.532704
+1608 UNIVERSITY CT,1608 UNIVERSITY CT Apts B101-B313,Shawneetown Bldg B,Shawneetown Bldg B,190,190,Lexington,Lexington,0,0,KY,KY,40503,40503,38.010336,-84.532704
+1608 UNIVERSITY CT,1608 UNIVERSITY CT Apts D101-D313,Shawneetown Bldg D,Shawneetown Bldg D,191,191,Lexington,Lexington,0,0,KY,KY,40503,40503,38.019937,-84.510232
+1608 UNIVERSITY CT,1608 UNIVERSITY CT Apts F101-F313,Shawneetown Bldg F,Shawneetown Bldg F,192,192,Lexington,Lexington,0,0,KY,KY,40503,40503,38.019937,-84.510232
+1608 UNIVERSITY CT,1608 UNIVERSITY CT Apts E101-E315,Shawneetown Bldg E,Shawneetown Bldg E,193,193,Lexington,Lexington,0,0,KY,KY,40503,40503,38.010336,-84.532704
+1608 UNIVERSITY CT,1608 UNIVERSITY CT Apts C101-C315,Shawneetown Bldg C,Shawneetown Bldg C,194,194,Lexington,Lexington,0,0,KY,KY,40503,40503,38.010336,-84.532704
+180 AVENUE OF CHAMPIONS,180 AVENUE OF CHAMPIONS,Stoll Field Viewing Tower,Stoll Field Viewing Tower,196,196,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039828,-84.502039
+1290 VETERANS DR,1290 VETERANS DR,Parking Garage No 1,Parking Garage No 1,197,197,Lexington,Lexington,0,0,KY,KY,40506,40506,38.028938,-84.506316
+301 HILLTOP AVE,301 HILLTOP AVE,Parking Garage No 2,Parking Garage No 2,198,198,Lexington,Lexington,0,0,KY,KY,40506,40506,38.033407,-84.50395
+140 HUGUELET DR,140 HUGUELET DR,Parking Garage No 3,Parking Garage No 3,199,199,Lexington,Lexington,0,0,KY,KY,40506,40506,38.033138,-84.505823
+900 SOUTH LIMESTONE ST,900 SOUTH LIMESTONE ST,Wethington Allied Health Building,Wethington Allied Health Building,200,200,Lexington,Lexington,0,0,KY,KY,40536,40536,38.032143,-84.50897
+409 SOUTH LIMESTONE ST,409 SOUTH LIMESTONE ST,Parking Garage No 5,Parking Garage No 5,202,202,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041448,-84.503975
+1037 SOUTH LIMESTONE ST,1037 SOUTH LIMESTONE ST,1037 SOUTH LIMESTONE ST,1037 SOUTH LIMESTONE ST,203,203,Lexington,Lexington,0,0,KY,KY,40503,40503,38.030433,-84.51027
+591 SOUTH UPPER ST,591 SOUTH UPPER ST,Cooling Plant #2,Cooling Plant #2,204,204,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041738,-84.505788
+462 ROSE LN,462 ROSE LN,Phi Mu (Greek Park),Phi Mu (Greek Park),205,205,Lexington,Lexington,1,1,KY,KY,40506,40506,,
+357 SCOTT ST,357 SCOTT ST,Arts Metal Bldg,Arts Metal Bldg,207,207,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039873,-84.507131
+310 HILLTOP AVE,310 HILLTOP AVE,Centrifuge Building,Centrifuge Building,209,209,Lexington,Lexington,0,0,KY,KY,40536,40536,38.033299,-84.50388
+355 SCOTT ST,355 SCOTT ST,Reynolds Warehouse No 4,Reynolds Warehouse No 4,210,210,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039873,-84.507131
+475 ROSE ST,475 ROSE ST,Maxwell Place Garage,Maxwell Place Garage,211,211,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036272,-84.50201
+416 COMPLEX DR,416 COMPLEX DR,Lancaster Aquatics,Lancaster Aquatics,212,212,Lexington,Lexington,0,0,KY,KY,40506,40506,38.029363,-84.505258
+454 COMPLEX DR,454 COMPLEX DR,Boone Tennis Center,Boone Tennis Center,213,213,Lexington,Lexington,0,0,KY,KY,40506,40506,38.029363,-84.505258
+148 GRAHAM AVE,148 GRAHAM AVE,Flammable Storage Bldg,Flammable Storage Bldg,214,214,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03546,-84.505754
+325 COOPER DR,325 COOPER DR,Garrigus (W.P.) Bldg,Garrigus (W.P.) Bldg,215,215,Lexington,Lexington,0,0,KY,KY,40546,40546,38.026182,-84.505041
+700 SOUTH LIMESTONE ST,700 SOUTH LIMESTONE ST,Multi-Disciplinary Research Lab No 3,Multi-Disciplinary Research Lab No 3,216,216,Lexington,Lexington,0,0,KY,KY,40536,40536,38.034895,-84.508323
+587 SOUTH UPPER ST,587 SOUTH UPPER ST,Electric Substation #2,Electric Substation #2,217,217,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041841,-84.505641
+1210 UNIVERSITY DR,1210 UNIVERSITY DR,Seaton Center,Seaton Center,219,219,Lexington,Lexington,0,0,KY,KY,40506,40506,38.028496,-84.504769
+430 COMPLEX DR,430 COMPLEX DR,Bernard Johnson Student Rec Ctr,Bernard Johnson Student Rec Ctr,220,220,Lexington,Lexington,0,0,KY,KY,40506,40506,38.029363,-84.505258
+1540 UNIVERSITY DR,1540 UNIVERSITY DR,Commonwealth Stadium,Commonwealth Stadium,222,222,Lexington,Lexington,0,0,KY,KY,40506,40506,38.023281,-84.506236
+745 ROSE ST,745 ROSE ST,Warren Wright Medical Plaza,Warren Wright Medical Plaza,223,223,Lexington,Lexington,0,0,KY,KY,40536,40536,38.032456,-84.507403
+160 PATTERSON DR,160 PATTERSON DR,Lucille Caudill Little Fine Arts Library,Lucille Caudill Little Fine Arts Library,224,224,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037257,-84.502939
+675 ROSE ST,675 ROSE ST,Morgan (T H ) Biological Sciences,Morgan (T H ) Biological Sciences,225,225,Lexington,Lexington,0,0,KY,KY,40546,40546,38.033518,-84.505901
+452 COMPLEX DR,452 COMPLEX DR,Recreation Equipment Storage Bldg,Recreation Equipment Storage Bldg,227,227,Lexington,Lexington,0,0,KY,KY,40506,40506,38.029363,-84.505258
+412 STADIUM VIEW,412 STADIUM VIEW,Agricultural Distribution Center,Agricultural Distribution Center,229,229,Lexington,Lexington,0,0,KY,KY,40546,40546,38.02018,-84.501885
+800 SOUTH LIMESTONE ST,800 SOUTH LIMESTONE ST,Sanders-Brown Gerontology Center,Sanders-Brown Gerontology Center,230,230,Lexington,Lexington,0,0,KY,KY,40536,40536,38.033185,-84.508924
+1521 COLLEGE WAY,1521 COLLEGE WAY,Farm Maintenance Storage Shed,Farm Maintenance Storage Shed,231,231,Lexington,Lexington,0,0,KY,KY,40546,40546,38.021553,-84.502007
+751 ROSE ST,751 ROSE ST,Nursing Learning Center,Nursing Learning Center,232,232,Lexington,Lexington,0,0,KY,KY,40536,40536,38.03261,-84.507579
+460 COOPER DR,460 COOPER DR,John W Oswald Bldg,John W Oswald Bldg,235,235,Lexington,Lexington,3,3,KY,KY,40546,40546,38.025425,-84.501011
+1401 UNIVERSITY DR,1401 UNIVERSITY DR,Tobacco & Health Research Institute,Tobacco & Health Research Institute,236,236,Lexington,Lexington,0,0,KY,KY,40546,40546,38.025675,-84.507155
+600 ROSE ST,600 ROSE ST,Wenner-Gren Research Addition,Wenner-Gren Research Addition,237,237,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034111,-84.505031
+468 ROSE LN,468 ROSE LN,468 ROSE LN,468 ROSE LN,240,240,Lexington,Lexington,0,0,KY,KY,40508,40508,38.033613,-84.497888
+405 ROSE ST,405 ROSE ST,Singletary Center for the Arts,Singletary Center for the Arts,241,241,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037758,-84.501121
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 1,Greg Page Apartments 1,243,243,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 2,Greg Page Apartments 2,244,244,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 3,Greg Page Apartments 3,245,245,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 4,Greg Page Apartments 4,246,246,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 5,Greg Page Apartments 5,247,247,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 6,Greg Page Apartments 6,248,248,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 7,Greg Page Apartments 7,249,249,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 8,Greg Page Apartments 8,250,250,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 10,Greg Page Apartments 10,252,252,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 11,Greg Page Apartments 11,253,253,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 12,Greg Page Apartments 12,254,254,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 13,Greg Page Apartments 13,255,255,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 14,Greg Page Apartments 14,256,256,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 15,Greg Page Apartments 15,257,257,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 16,Greg Page Apartments 16,258,258,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 17,Greg Page Apartments 17,259,259,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 18,Greg Page Apartments 18,260,260,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 19,Greg Page Apartments 19,261,261,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 20,Greg Page Apartments 20,262,262,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 21,Greg Page Apartments 21,263,263,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 22,Greg Page Apartments 22,264,264,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 23,Greg Page Apartments 23,265,265,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 24,Greg Page Apartments 24,266,266,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR,300 ALUMNI DR,Greg Page Apartments 25,Greg Page Apartments 25,267,267,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+300 ALUMNI DR Suite 213,300 ALUMNI DR Suite 213,Greg Page Food Storage Laundry,Greg Page Food Storage Laundry,268,268,Lexington,Lexington,0,0,KY,KY,40503,40503,38.018062,-84.507518
+430 STADIUM VIEW,430 STADIUM VIEW,Communications Building,Communications Building,269,269,Lexington,Lexington,0,0,KY,KY,40506,40506,38.02018,-84.501885
+1510 UNIVERSITY DR,1510 UNIVERSITY DR,Information Building (Ticket Booth),Information Building (Ticket Booth),272,272,Lexington,Lexington,0,0,KY,KY,40506,40506,38.024634,-84.506887
+450 COOPER DR,450 COOPER DR,Moloney Building (BCTC),Moloney Building (BCTC),274,274,Lexington,Lexington,3,3,KY,KY,40506,40506,38.025446,-84.501119
+1600 UNIVERSITY CT,1600 UNIVERSITY CT,Bruce Poundstone Regulatory Services Bldg,Bruce Poundstone Regulatory Services Bldg,275,275,Lexington,Lexington,0,0,KY,KY,40546,40546,38.020603,-84.510093
+1398 NICHOLASVILLE RD,1398 NICHOLASVILLE RD,Barnhart Building (C.E. Barnhart),Barnhart Building (C.E. Barnhart),276,276,Lexington,Lexington,0,0,KY,KY,40546,40546,38.027278,-84.510943
+720 SPORTS CENTER DR,720 SPORTS CENTER DR,Nutter Football Training Facility,Nutter Football Training Facility,277,277,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+435 STADIUM VIEW,435 STADIUM VIEW,PPD Storage Bldg,PPD Storage Bldg,278,278,Lexington,Lexington,0,0,KY,KY,40506,40506,38.02018,-84.501885
+460 STADIUM VIEW,460 STADIUM VIEW,BIRP Building,BIRP Building,279,279,Lexington,Lexington,0,0,KY,KY,40506,40506,38.02018,-84.501885
+295 ALUMNI DR,295 ALUMNI DR,The Football Training Facility,The Football Training Facility,280,280,Lexington,Lexington,0,0,KY,KY,40506,40506,,
+508 ADMINISTRATION DR,508 ADMINISTRATION DR,Oliver H. Raymond Civil Engineering,Oliver H. Raymond Civil Engineering,281,281,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038974,-84.506737
+390 COLUMBIA AVE,390 COLUMBIA AVE,Gas Storage Bldg. M&M,Gas Storage Bldg. M&M,282,282,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034533,-84.501456
+700 SPORTS CENTER DR,700 SPORTS CENTER DR,Hagan Baseball Stadium,Hagan Baseball Stadium,283,283,Lexington,Lexington,0,0,KY,KY,40506,40506,38.032312,-84.527542
+740 SOUTH LIMESTONE ST,740 SOUTH LIMESTONE ST,Kentucky Clinic,Kentucky Clinic,284,284,Lexington,Lexington,0,0,KY,KY,40536,40536,38.033829,-84.507915
+1401 SPORTS CENTER DR,1401 SPORTS CENTER DR,Nutter Field House,Nutter Field House,285,285,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+145 GRAHAM AVE,145 GRAHAM AVE,ASTeCC,ASTeCC,286,286,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035488,-84.505736
+425 STADIUM VIEW,425 STADIUM VIEW,Electric HVAC Bldg,Electric HVAC Bldg,287,287,Lexington,Lexington,0,0,KY,KY,40506,40506,38.02018,-84.501885
+455 STADIUM VIEW,455 STADIUM VIEW,PPD Greenhouse,PPD Greenhouse,288,288,Lexington,Lexington,0,0,KY,KY,40506,40506,38.02018,-84.501885
+475 STADIUM VIEW,475 STADIUM VIEW,Hazardous Waste Storage,Hazardous Waste Storage,289,289,Lexington,Lexington,0,0,KY,KY,40506,40506,38.02018,-84.501885
+800 ROSE ST,800 ROSE ST,UK Hospital-Chandler Medical Center & Hospital,UK Hospital-Chandler Medical Center & Hospital,293,293,Lexington,Lexington,0,0,KY,KY,40536,40536,38.03186,-84.508632
+842 ROSE ST,842 ROSE ST,Gill Heart Institute (Pavilion G),Gill Heart Institute (Pavilion G),294,294,Lexington,Lexington,0,0,KY,KY,40536,40536,38.032053,-84.507908
+800 ROSE ST,Dental Science Bldg,Dental Science Bldg,297,297,Lexington,Lexington,0,0,KY,KY,40536,40536,38.03130866,0.00235419,1
+800 ROSE ST,William R. Willard Medical Education Bldg,William R. Willard Medical Education Bldg,298,298,Lexington,Lexington,0,0,KY,KY,40536,40536,38.03101112,0.00191791,1
+510 ALUMNI DR,510 ALUMNI DR,Arboretum Tool Shed,Arboretum Tool Shed,300,300,Lexington,Lexington,0,0,KY,KY,40546,40546,38.018706,-84.505024
+154 BONNIE BRAE DR,154 BONNIE BRAE DR,154 Bonnie Brae/Rental,154 Bonnie Brae/Rental,301,301,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036137,-84.509927
+500 ALUMNI DR,500 ALUMNI DR,Arboretum Visitor Center,Arboretum Visitor Center,302,302,Lexington,Lexington,0,0,KY,KY,40503,40503,38.019103,-84.505272
+500 ALUMNI DR,500 ALUMNI DR,Arboretum Restrooms,Arboretum Restrooms,303,303,Lexington,Lexington,0,0,KY,KY,40503,40503,,
+1095 VETERANS DR,1095 VETERANS DR,Health Sciences Research Bldg,Health Sciences Research Bldg,305,305,Lexington,Lexington,0,0,KY,KY,40536,40536,38.028938,-84.506316
+1405 VETERANS DR,1405 VETERANS DR,Plant Science Building,Plant Science Building,312,312,Lexington,Lexington,0,0,KY,KY,40503,40503,38.026492,-84.508544
+455 WOODLAND AVE,455 WOODLAND AVE,455 WOODLAND AVE,455 WOODLAND AVE,313,313,Lexington,Lexington,0,0,KY,KY,40508,40508,38.033354,-84.497976
+252 EAST MAXWELL ST,252 EAST MAXWELL ST,Environmental Health and Safety,Environmental Health and Safety,314,314,Lexington,Lexington,0,0,KY,KY,40508,40508,38.039848,-84.498398
+206 EAST MAXWELL ST,206 EAST MAXWELL ST,KY  Humanities Council,KY  Humanities Council,315,315,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041035,-84.499147
+408 PENNSYLVANIA CT,408 PENNSYLVANIA CT,408 Pennsylvania Court,408 Pennsylvania Court,317,317,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034256,-84.500064
+315 SCOTT ST,315 SCOTT ST,315 SCOTT ST,315 SCOTT ST,324,324,Lexington,Lexington,0,0,KY,KY,40508,40508,38.041344,-84.509229
+317 SCOTT ST,317 SCOTT ST,317 SCOTT ST,317 SCOTT ST,325,325,Lexington,Lexington,0,0,KY,KY,40508,40508,38.041403,-84.509274
+321 SCOTT ST,321 SCOTT ST,321 SCOTT ST,321 SCOTT ST,327,327,Lexington,Lexington,0,0,KY,KY,40508,40508,38.041503,-84.509349
+641 SOUTH LIMESTONE ST,641 SOUTH LIMESTONE ST,Appalachian Center Annex,Appalachian Center Annex,333,333,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036639,-84.508042
+663 SOUTH LIMESTONE ST,663 SOUTH LIMESTONE ST,Thomas D Clark Bldg,Thomas D Clark Bldg,336,336,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035644,-84.508474
+663 SOUTH LIMESTONE ST,663 SOUTH LIMESTONE ST,Thomas D Clark Bldg Garage,Thomas D Clark Bldg Garage,337,337,Lexington,Lexington,0,0,KY,KY,40508,40508,38.035644,-84.508474
+218 EAST MAXWELL ST,218 EAST MAXWELL ST,Bingham Davis House,Bingham Davis House,343,343,Lexington,Lexington,0,0,KY,KY,40508,40508,38.040886,-84.498812
+232 EAST MAXWELL ST,232 EAST MAXWELL ST,Raymond F. Betts House,Raymond F. Betts House,344,344,Lexington,Lexington,0,0,KY,KY,40508,40508,38.040684,-84.498222
+212 EAST MAXWELL ST,212 EAST MAXWELL ST,Max Kade German House,Max Kade German House,345,345,Lexington,Lexington,0,0,KY,KY,40508,40508,38.040925,-84.499029
+654 MAXWELTON CT,654 MAXWELTON CT,654 MAXWELTON CT,654 MAXWELTON CT,346,346,Lexington,Lexington,0,0,KY,KY,40508,40508,38.035965,-84.50899
+624 MAXWELTON CT,624 MAXWELTON CT,Appalachian Center,Appalachian Center,347,347,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036593,-84.508356
+626 MAXWELTON CT,626 MAXWELTON CT,626 MAXWELTON CT,626 MAXWELTON CT,348,348,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036702,-84.508574
+641 MAXWELTON CT,641 MAXWELTON CT,School of Psychology Clinic,School of Psychology Clinic,349,349,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036595,-84.509446
+643 MAXWELTON CT,643 MAXWELTON CT,Center on Drug and Alchohol Research,Center on Drug and Alchohol Research,350,350,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03649,-84.509483
+644 MAXWELTON CT,644 MAXWELTON CT,J. Harris Phsychological Services,J. Harris Phsychological Services,351,351,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036332,-84.508987
+520 OLDHAM CT,520 OLDHAM CT,520 OLDHAM CT,520 OLDHAM CT,353,353,Lexington,Lexington,0,0,KY,KY,40502,40502,38.029926,-84.498
+123 STATE ST,123 STATE ST,123 STATE ST,123 STATE ST,355,355,Lexington,Lexington,0,0,KY,KY,40503,40503,38.030516,-84.511271
+119 STATE ST,119 STATE ST,119 STATE ST,119 STATE ST,356,356,Lexington,Lexington,0,0,KY,KY,40503,40503,38.030474,-84.511082
+400 PENNSYLVANIA CT,400 PENNSYLVANIA CT,400 PENNSYLVANIA CT,400 PENNSYLVANIA CT,360,360,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034668,-84.500528
+402 PENNSYLVANIA CT,402 PENNSYLVANIA CT,402 PENNSYLVANIA CT,402 PENNSYLVANIA CT,361,361,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034564,-84.500411
+405 PENNSYLVANIA CT,405 PENNSYLVANIA CT,405 PENNSYLVANIA CT,405 PENNSYLVANIA CT,362,362,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034732,-84.499915
+406 PENNSYLVANIA CT,406 PENNSYLVANIA CT,406 PENNSYLVANIA CT,406 PENNSYLVANIA CT,363,363,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034359,-84.50018
+410 PENNSYLVANIA CT,410 PENNSYLVANIA CT,410 PENNSYLVANIA CT,410 PENNSYLVANIA CT,365,365,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034154,-84.49995
+319 ROSE LN,319 ROSE LN,319 ROSE LN,319 ROSE LN,377,377,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036691,-84.500391
+321 ROSE LN,321 ROSE LN,321 ROSE LN,321 ROSE LN,378,378,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036611,-84.500305
+162 GAZETTE AVE,162 GAZETTE AVE,162-164 GAZETTE AVEnue,162-164 GAZETTE AVEnue,381,381,Lexington,Lexington,0,0,KY,KY,40508,40508,38.03268,-84.511562
+1313 NICHOLASVILLE RD,1313 NICHOLASVILLE RD,Sky Blue Solar House,Sky Blue Solar House,382,382,Lexington,Lexington,0,0,KY,KY,40508,40508,38.027416,-84.510934
+150 GAZETTE AVE,150 GAZETTE AVE,150 GAZETTE AVEnue,150 GAZETTE AVEnue,386,386,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032552,-84.51104
+110 AVENUE OF CHAMPIONS,110 AVENUE OF CHAMPIONS,Bus Shelter #1-(Alumni Gym),Bus Shelter #1-(Alumni Gym),390,390,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041312,-84.503661
+274 AVENUE OF CHAMPIONS,274 AVENUE OF CHAMPIONS,Bus Shelter #2-(Rose & Euclid),Bus Shelter #2-(Rose & Euclid),391,391,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03824,-84.500269
+503 ROSE ST,503 ROSE ST,Bus Shelter #3-(Chem-Physics),Bus Shelter #3-(Chem-Physics),392,392,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034788,-84.504117
+440 COOPER DR,440 COOPER DR,Bus Shelter #7-(Corner LCC & Red Lot),Bus Shelter #7-(Corner LCC & Red Lot),393,393,Lexington,Lexington,0,0,KY,KY,40506,40506,38.025467,-84.501228
+317 COOPER DR,317 COOPER DR,Bus Shelter #6-(Agr Sci & NICHOLASVILLE RD),Bus Shelter #6-(Agr Sci & NICHOLASVILLE RD),394,394,Lexington,Lexington,0,0,KY,KY,40506,40506,38.026247,-84.505401
+1608 UNIVERSITY CT,1608 UNIVERSITY CT,Bus Shelter #9-(at exit @ Shawneetown),Bus Shelter #9-(at exit @ Shawneetown),397,397,Lexington,Lexington,0,0,KY,KY,40506,40506,38.019937,-84.510232
+599 SOUTH UPPER ST,599 SOUTH UPPER ST,Bus Shelter #10-(at Taylor Educ.bldg),Bus Shelter #10-(at Taylor Educ.bldg),398,398,Lexington,Lexington,0,0,KY,KY,40506,40506,38.041503,-84.506043
+639 SOUTH LIMESTONE ST,639 SOUTH LIMESTONE ST,Bus Shelter #11,Bus Shelter #11,399,399,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036633,-84.507722
+630 MAXWELTON CT,630 MAXWELTON CT,Ellen H. Richards House,Ellen H. Richards House,400,400,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036678,-84.508722
+635 MAXWELTON CT,635 MAXWELTON CT,Weldon House,Weldon House,401,401,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036815,-84.509332
+147 WASHINGTON AVE,147 WASHINGTON AVE,School of Music Administration,School of Music Administration,402,402,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035091,-84.505824
+341-343 SCOTT ST,341-343 SCOTT ST,341-343 SCOTT ST,341-343 SCOTT ST,409,409,Lexington,Lexington,0,0,KY,KY,40506,40506,38.042004,-84.509596
+403 PENNSYLVANIA CT,403 PENNSYLVANIA CT,403 PENNSYLVANIA CT,403 PENNSYLVANIA CT,412,412,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034835,-84.50003
+556 WILDCAT CT,556 WILDCAT CT,Softball/Soccer Locker Rooms,Softball/Soccer Locker Rooms,413,413,Lexington,Lexington,0,0,KY,KY,40506,40506,38.018792,-84.501172
+125 WASHINGTON AVE,125 WASHINGTON AVE,Bus Shelter #12-(Bldg.#3),Bus Shelter #12-(Bldg.#3),416,416,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035192,-84.506674
+660 SOUTH LIMESTONE ST,660 SOUTH LIMESTONE ST,Minority Affaris/Learning Service Center,Minority Affaris/Learning Service Center,417,417,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035967,-84.507767
+1580 UNIVERSITY DR,1580 UNIVERSITY DR,Bus Shelter #4-(at Commonwealth),Bus Shelter #4-(at Commonwealth),418,418,Lexington,Lexington,0,0,KY,KY,40506,40506,38.024634,-84.506887
+790 ROSE ST,790 ROSE ST,Bus Shelter #13-(at Medical Center),Bus Shelter #13-(at Medical Center),419,419,Lexington,Lexington,0,0,KY,KY,40506,40506,38.032895,-84.506718
+424 EUCLID AVE,424 EUCLID AVE,Child Development Research Facility,Child Development Research Facility,420,420,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034478,-84.496047
+226 EAST MAXWELL ST,226 EAST MAXWELL ST,Commonwealth House,Commonwealth House,432,432,Lexington,Lexington,0,0,KY,KY,40506,40506,38.040819,-84.49837
+412 ROSE ST,412 ROSE ST,William E. and Casiana Schmidt Vocal Arts Center,William E. and Casiana Schmidt Vocal Arts Center,433,433,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036927,-84.500527
+658 SOUTH LIMESTONE ST,658 SOUTH LIMESTONE ST,Ligon House,Ligon House,442,442,Lexington,Lexington,0,0,KY,KY,40506,40506,38.036234,-84.508058
+570 WILDCAT CT,570 WILDCAT CT,John Cropp Softball Stadium,John Cropp Softball Stadium,446,446,Lexington,Lexington,0,0,KY,KY,40506,40506,38.018792,-84.501172
+558 WILDCAT CT,558 WILDCAT CT,Hitting Pavilion,Hitting Pavilion,447,447,Lexington,Lexington,0,0,KY,KY,40506,40506,38.018792,-84.501172
+710 SPORTS CENTER DR,710 SPORTS CENTER DR,Football Storage Shed,Football Storage Shed,448,448,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+708 SPORTS CENTER DR,708 SPORTS CENTER DR,Shively Grounds Storage Bldg,Shively Grounds Storage Bldg,449,449,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+706 SPORTS CENTER DR,706 SPORTS CENTER DR,Shively Grounds Bldg,Shively Grounds Bldg,453,453,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+401 HILLTOP AVE,401 HILLTOP AVE,W.T. Young Library,W.T. Young Library,456,456,Lexington,Lexington,0,0,KY,KY,40506,40506,38.032903,-84.501733
+149 TRANSCRIPT AVE,149 TRANSCRIPT AVE,149 TRANSCRIPT AVE,149 TRANSCRIPT AVE,460,460,Lexington,Lexington,0,0,KY,KY,40508,40508,38.03222,-84.511289
+153 TRANSCRIPT AVE,153 TRANSCRIPT AVE,153 TRANSCRIPT AVE,153 TRANSCRIPT AVE,461,461,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032238,-84.511379
+111 AVENUE OF CHAMPIONS,111 AVENUE OF CHAMPIONS,Limestone Park I,Limestone Park I,462,462,Lexington,Lexington,1,1,KY,KY,40506,40506,38.041309,-84.50361
+329 SOUTH MLK BLVD,329 SOUTH MLK BLVD,Limestone Park II,Limestone Park II,463,463,Lexington,Lexington,1,1,KY,KY,40506,40506,38.041516,-84.500805
+220 TRANSCRIPT AVE,220 TRANSCRIPT AVE,220 TRANSCRIPT AVE,220 TRANSCRIPT AVE,467,467,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032256,-84.513524
+505 OLDHAM CT,505 OLDHAM CT,Biological Safety,Biological Safety,473,473,Lexington,Lexington,0,0,KY,KY,40502,40502,38.030598,-84.498068
+470 COOPER DR,470 COOPER DR,LCC Academic/Tech,LCC Academic/Tech,481,481,Lexington,Lexington,3,3,KY,KY,40506,40506,38.024544,-84.502433
+408 LINDEN WALK,408 LINDEN WALK,408 LINDEN WALK,408 LINDEN WALK,482,482,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036604,-84.499135
+518 OLDHAM CT,518 OLDHAM CT,Real Properties Garage,Real Properties Garage,484,484,Lexington,Lexington,0,0,KY,KY,40502,40502,38.030028,-84.497872
+725 SPORTS CENTER DR,725 SPORTS CENTER DR,Boone Tennis Stadium,Boone Tennis Stadium,485,485,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+518 OLDHAM CT,518 OLDHAM CT,Real Properties Office,Real Properties Office,487,487,Lexington,Lexington,0,0,KY,KY,40502,40502,38.030028,-84.497872
+575 WOODLAND AVE,575 WOODLAND AVE,Woodland Early Learning Center,Woodland Early Learning Center,488,488,Lexington,Lexington,0,0,KY,KY,40508,40508,38.03291,-84.498864
+1117 SOUTH LIMESTONE ST,1117 SOUTH LIMESTONE ST,Dental and Oral Health Research,Dental and Oral Health Research,489,489,Lexington,Lexington,0,0,KY,KY,40536,40536,38.02957,-84.510581
+355 COOPER DR,355 COOPER DR,Environmental Quality Management,Environmental Quality Management,490,490,Lexington,Lexington,0,0,KY,KY,40506,40506,38.025936,-84.503697
+1685 RUSSELL CAVE RD,1685 RUSSELL CAVE RD,Ecological Research,Ecological Research,491,491,Lexington,Lexington,0,0,KY,KY,40511,40511,,
+408 ROSE ST,408 ROSE ST,Career (Stuckert) Center,Career (Stuckert) Center,494,494,Lexington,Lexington,0,0,KY,KY,40506,40506,38.037157,-84.500197
+301 ROSE ST,301 ROSE ST,James F. Hardymon Communications Bldg,James F. Hardymon Communications Bldg,495,495,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039703,-84.497123
+506 ADMINISTRATION DR,506 ADMINISTRATION DR,Anderson Mechanical Engineering Building,Anderson Mechanical Engineering Building,503,503,Lexington,Lexington,0,0,KY,KY,40506,40506,38.038974,-84.506734
+447 PENNSYLVANIA AVE,447 PENNSYLVANIA AVE,Sigma Chi Fraternity House,Sigma Chi Fraternity House,504,504,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034093,-84.499492
+441 PENNSYLVANIA AVE,441 PENNSYLVANIA AVE,Alpha Tau Omega Fraternity,Alpha Tau Omega Fraternity,505,505,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034095,-84.499495
+515 OLDHAM CT,515 OLDHAM CT,Robert Straus Behavioral Research Building,Robert Straus Behavioral Research Building,506,506,Lexington,Lexington,0,0,KY,KY,40502,40502,38.030262,-84.498382
+410 ROSE LN,410 ROSE LN,Sigma Alpha Epsilon Fraternity,Sigma Alpha Epsilon Fraternity,507,507,Lexington,Lexington,0,0,KY,KY,40506,40506,38.035564,-84.500087
+741 SOUTH LIMESTONE ST,741 SOUTH LIMESTONE ST,Biomedical Biological Sciences Research Building (BBSRB),Biomedical Biological Sciences Research Building (BBSRB),509,509,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034222,-84.508627
+751 PRESS AVE,751 PRESS AVE,Central Utility Plant #4,Central Utility Plant #4,514,514,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034863,-84.511599
+807 SOUTH LIMESTONE ST,807 SOUTH LIMESTONE ST,College of Medicine Learning Center,College of Medicine Learning Center,517,517,Lexington,Lexington,0,0,KY,KY,40506,40506,38.03285,-84.509423
+761 PRESS AVE,761 PRESS AVE,Biological/Biomedical Research Bldg Generator Bldg,Biological/Biomedical Research Bldg Generator Bldg,518,518,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034727,-84.511651
+630 S BROADWAY,630 S BROADWAY,630 S BROADWAY,630 S BROADWAY,564,564,Lexington,Lexington,0,0,KY,KY,40508,40508,38.042659,-84.507768
+740 WOODLAND AVE,740 WOODLAND AVE,Smith Hall,Smith Hall,565,565,Lexington,Lexington,0,0,KY,KY,40526,40526,38.031251,-84.500619
+701 SPORTS CENTER DR,701 SPORTS CENTER DR,Dale E Baldwin Bldg,Dale E Baldwin Bldg,566,566,Lexington,Lexington,0,0,KY,KY,40526,40526,38.027044,-84.500178
+705 SPORTS CENTER DR,705 SPORTS CENTER DR,Ingels Hall  (Margaret),Ingels Hall  (Margaret),567,567,Lexington,Lexington,0,0,KY,KY,40526,40526,38.027044,-84.500178
+125 AVENUE OF CHAMPIONS,125 AVENUE OF CHAMPIONS,David P. Roselle Hall,David P. Roselle Hall,568,568,Lexington,Lexington,0,0,KY,KY,40526,40526,38.040994,-84.503272
+721 PRESS AVE,721 PRESS AVE,Parking Garage No 6,Parking Garage No 6,571,571,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034823,-84.511749
+721 SPORTS CENTER DR,721 SPORTS CENTER DR,Parking Garage No 7,Parking Garage No 7,572,572,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+1575 MCGRATHIANA PKWY,1575 MCGRATHIANA PKWY,Center for Pharmaceutical Science & Technology,Center for Pharmaceutical Science & Technology,574,574,Lexington,Lexington,58,58,KY,KY,40511,40511,38.094858,-84.494237
+830 SOUTH LIMESTONE ST,830 SOUTH LIMESTONE ST,University Health Service (Student Health),University Health Service (Student Health),582,582,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032488,-84.508909
+702 SPORTS CENTER DR,702 SPORTS CENTER DR,Baseball Training Pavillion,Baseball Training Pavillion,585,585,Lexington,Lexington,0,0,KY,KY,40506,40506,38.027044,-84.500178
+485 STADIUM VIEW,485 STADIUM VIEW,Storage Shed,Storage Shed,592,592,Lexington,Lexington,0,0,KY,KY,40506,40506,38.02018,-84.501885
+789 SOUTH LIMESTONE ST,789 SOUTH LIMESTONE ST,Bio-Pharm (BP),Bio-Pharm (BP),596,596,Lexington,Lexington,0,0,KY,KY,40506,40506,38.033468,-84.509139
+413 PENNSYLVANIA CT,413 PENNSYLVANIA CT,House,House,600,600,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034324,-84.499453
+110 TRANSCRIPT AVE,110 TRANSCRIPT AVE,Parking Garage No 8,Parking Garage No 8,601,601,Lexington,Lexington,0,0,KY,KY,40506,40506,38.031633,-84.509949
+1000 SOUTH LIMESTONE ST,1000 SOUTH LIMESTONE ST,Patient Care Facility (Pavilion A),Patient Care Facility (Pavilion A),602,602,Lexington,Lexington,0,0,KY,KY,40506,40506,38.031528,-84.509463
+338 LEXINGTON AVE,338 LEXINGTON AVE,Joe Craft Center (Memorial Coliseum Addition),Joe Craft Center (Memorial Coliseum Addition),604,604,Lexington,Lexington,0,0,KY,KY,40506,40506,38.040647,-84.500217
+788 PRESS AVE,788 PRESS AVE,788 PRESS AVE,788 PRESS AVE,607,607,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034067,-84.511651
+792 PRESS AVE,792 PRESS AVE,792 PRESS AVE,792 PRESS AVE,608,608,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034052,-84.511853
+796 PRESS AVE,796 PRESS AVE,796 PRESS AVE,796 PRESS AVE,609,609,Lexington,Lexington,0,0,KY,KY,40508,40508,38.033998,-84.511872
+800 PRESS AVE,800 PRESS AVE,800 PRESS AVE,800 PRESS AVE,610,610,Lexington,Lexington,0,0,KY,KY,40508,40508,38.033944,-84.51189
+125 EAST MAXWELL ST,125 EAST MAXWELL ST,Good Samaritan Medical Office Building,Good Samaritan Medical Office Building,611,611,Lexington,Lexington,0,0,KY,KY,40508,40508,38.042723,-84.500469
+320 SOUTH LIMESTONE ST,320 SOUTH LIMESTONE ST,Good Samaritan Chiller Building,Good Samaritan Chiller Building,612,612,Lexington,Lexington,0,0,KY,KY,40508,40508,38.042909,-84.501885
+330 SOUTH LIMESTONE ST,330 SOUTH LIMESTONE ST,Good Samaritan Parking Structure,Good Samaritan Parking Structure,613,613,Lexington,Lexington,0,0,KY,KY,40508,40508,38.042687,-84.502204
+1214 UNIVERSITY DR,1214 UNIVERSITY DR,Seaton Center Storage,Seaton Center Storage,616,616,Lexington,Lexington,0,0,KY,KY,40506,40506,38.023109,-84.508557
+118 CONN TERRACE,118 CONN TERRACE,118 CONN TERRACE,118 CONN TERRACE,617,617,Lexington,Lexington,0,0,KY,KY,40508,40508,38.031001,-84.51181
+538 ROSE ST,538 ROSE ST,MacAdam Student Observatory,MacAdam Student Observatory,618,618,Lexington,Lexington,0,0,KY,KY,40506,40506,38.034349,-84.504381
+102 CONN TER,102 CONN TER,102 CONN TERRACE,102 CONN TERRACE,619,619,Lexington,Lexington,0,0,KY,KY,40506,40506,38.0307,-84.510489
+1689 RUSSELL CAVE RD,1689 RUSSELL CAVE RD,Aviary Facility,Aviary Facility,620,620,Lexington,Lexington,0,0,KY,KY,40505,40505,38.078197,-84.471498
+104 CONN TER,104 CONN TER,Residence,Residence,621,621,Lexington,Lexington,0,0,KY,KY,40508,40508,38.030735,-84.510641
+108 CONN TER,108 CONN TER,Residence,Residence,622,622,Lexington,Lexington,0,0,KY,KY,40508,40508,38.030814,-84.510969
+110 CONN TER,110 CONN TER,Residence,Residence,623,623,Lexington,Lexington,0,0,KY,KY,40508,40508,38.030852,-84.511134
+120 CONN TER,120 CONN TER,Residence,Residence,624,624,Lexington,Lexington,0,0,KY,KY,40508,40508,38.031043,-84.511982
+1105 SOUTH LIMESTONE ST,1105 SOUTH LIMESTONE ST,Offices,Offices,625,625,Lexington,Lexington,0,0,KY,KY,40506,40506,38.029727,-84.510526
+1119 SOUTH LIMESTONE ST,1119 SOUTH LIMESTONE ST,Residence,Residence,626,626,Lexington,Lexington,0,0,KY,KY,40506,40506,38.029416,-84.510638
+1529 COLLEGE WAY,1529 COLLEGE WAY,Air Medical Crew Quarters,Air Medical Crew Quarters,630,630,Lexington,Lexington,0,0,KY,KY,40546,40546,38.021553,-84.502007
+329 ROSE ST,329 ROSE ST,Davis Marksbury Building,Davis Marksbury Building,633,633,Lexington,Lexington,0,0,KY,KY,40506,40506,38.039324,-84.498135
+1737 RUSSELL CAVE RD,1737 RUSSELL CAVE RD,UK/Lemark Ctr for Innovation in Math & Science Education,UK/Lemark Ctr for Innovation in Math & Science Education,634,634,Lexington,Lexington,0,0,KY,KY,40505,40505,38.081256,-84.470783
+1749 RUSSELL CAVE RD,1749 RUSSELL CAVE RD,Maintenance Building,Maintenance Building,635,635,Lexington,Lexington,0,0,KY,KY,40505,40505,38.085326,-84.473525
+411 PENNSYLVANIA CT,411 PENNSYLVANIA CT,Apartments,Apartments,636,636,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034426,-84.499568
+1041 SOUTH LIMESTONE ST,1041 SOUTH LIMESTONE ST,Apartments,Apartments,637,637,Lexington,Lexington,0,0,KY,KY,40506,40506,38.030297,-84.510318
+1045 SOUTH LIMESTONE ST,1045 SOUTH LIMESTONE ST,Apartments,Apartments,639,639,Lexington,Lexington,0,0,KY,KY,40508,40508,38.03009,-84.51
+409 PENNSYLVANIA CT,409 PENNSYLVANIA CT,Apartments,Apartments,641,641,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034528,-84.499684
+318 COLLEGE VIEW,318 COLLEGE VIEW,Wildcat Coal Lodge (new construction),Wildcat Coal Lodge (new construction),644,644,Lexington,Lexington,0,0,KY,KY,40508,40508,38.039061,-84.498923
+179 LEADER AVE,179 LEADER AVE,179 LEADER AVE,179 LEADER AVE,645,645,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034067,-84.51137
+404 PENNSYLVANIA CT,404 PENNSYLVANIA CT,404 Pennyslvania Ct,404 Pennyslvania Ct,646,646,Lexington,Lexington,0,0,KY,KY,40508,40508,38.034462,-84.500295
+213 TRANSCRIPT AVE,213 TRANSCRIPT AVE,213 TRANSCRIPT AVE,213 TRANSCRIPT AVE,647,647,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032631,-84.512991
+221 TRANSCRIPT AVE,221 TRANSCRIPT AVE,221 TRANSCRIPT AVE,221 TRANSCRIPT AVE,648,648,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032718,-84.513348
+217 TRANSCRIPT AVE,217 TRANSCRIPT AVE,217 TRANSCRIPT AVE,217 TRANSCRIPT AVE,649,649,Lexington,Lexington,0,0,KY,KY,40508,40508,38.032677,-84.513184
+635 SOUTH LIMESTONE ST,635 SOUTH LIMESTONE ST,Mandrell Hall,Mandrell Hall,651,651,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036714,-84.507692
+631 SOUTH LIMESTONE ST,631 SOUTH LIMESTONE ST,Bosworth Hall,Bosworth Hall,652,652,Lexington,Lexington,0,0,KY,KY,40508,40508,38.037279,-84.508922
+629 SOUTH LIMESTONE ST,629 SOUTH LIMESTONE ST,Sanders Hall,Sanders Hall,653,653,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036884,-84.507633
+621 SOUTH LIMESTONE ST,621 SOUTH LIMESTONE ST,Building 400,Building 400,657,657,Lexington,Lexington,0,0,KY,KY,40508,40508,38.037111,-84.507554
+627 MAXWELTON CT,627 MAXWELTON CT,Maintenance Bldg.,Maintenance Bldg.,658,658,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036883,-84.508728
+623 MAXWELTON CT,623 MAXWELTON CT,Gas Building,Gas Building,659,659,Lexington,Lexington,0,0,KY,KY,40508,40508,38.036866,-84.508383
+196 HOSPITAL DR,196 HOSPITAL DR,Electric Substation #1,Electric Substation #1,1200,1200,Lexington,Lexington,0,0,KY,KY,40526,40526,38.0316,-84.508214
+829 PRESS AVE,829 PRESS AVE,Electric Substation #3,Electric Substation #3,1201,1201,Lexington,Lexington,0,0,KY,KY,40506,40506,38.033048,-84.512239
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,AFBC Coal Prep Bldg-CAER,AFBC Coal Prep Bldg-CAER,2059,2059,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,Cold Storage Bldg-CAER,Cold Storage Bldg-CAER,2060,2060,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,Synthesis and Pitch Laboratory,Synthesis and Pitch Laboratory,2061,2061,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,Gazebo-CAER,Gazebo-CAER,2062,2062,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,Maintenance Bldg-CAER,Maintenance Bldg-CAER,2063,2063,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,Industrial Support Facility,Industrial Support Facility,2064,2064,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,Drying Pad-CAER,Drying Pad-CAER,2065,2065,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,Fiber Development Facility,Fiber Development Facility,2067,2067,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2524 RESEARCH PARK DR,2524 RESEARCH PARK DR,Mineral Processing Facility,Mineral Processing Facility,2068,2068,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Algae Greenhouse,Algae Greenhouse,2069,2069,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2582 RESEARCH PARK DR,2582 RESEARCH PARK DR,CAER Laboratory 2,CAER Laboratory 2,2070,2070,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2510 RESEARCH PARK DR,2510 RESEARCH PARK DR,F-T Process Development Unit,F-T Process Development Unit,2072,2072,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+Coldstream Farm Floater,Coldstream Farm Floater,3000,3000,Lexington,Lexington,58,58,KY,KY,38.040584,-84.503716,1,,,
+2788 DAIRY RD,2788 DAIRY RD,Coldstream Kiln,Coldstream Kiln,3001,3001,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2860 BECKY SUE LN,2860 BECKY SUE LN,Vet Science Compost,Vet Science Compost,3002,3002,Lexington,Lexington,58,58,KY,KY,40155,40155,,
+2630 DAIRY RD,2630 DAIRY RD,Poultry Research Facility-Coldstream Farm,Poultry Research Facility-Coldstream Farm,3003,3003,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Picnic Pavilion @ Carnahan House,Picnic Pavilion @ Carnahan House,3004,3004,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3110 BECKY SUE LN,3110 BECKY SUE LN,Horticulture Storage Barn-Coldstream Farm,Horticulture Storage Barn-Coldstream Farm,3005,3005,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2970 BECKY SUE LN,2970 BECKY SUE LN,Vet Science Hoop Shed,Vet Science Hoop Shed,3006,3006,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3100 BECKY SUE LN,3100 BECKY SUE LN,Horticulture Storage Barn-Coldstream Farm,Horticulture Storage Barn-Coldstream Farm,3007,3007,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3331 DAIRY RD,3331 DAIRY RD,Dry Cow Shed- Coldstream Farm,Dry Cow Shed- Coldstream Farm,3016,3016,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2980 BECKY SUE LN,2980 BECKY SUE LN,Round Bale Storage,Round Bale Storage,3017,3017,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1505 BULL LEA RD,1505 BULL LEA RD,Aluminum Research Bldg,Aluminum Research Bldg,3031,3031,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Coldstream Farm Equipment Floater,Coldstream Farm Equipment Floater,3100,3100,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Shop-Coldstream Farm,Shop-Coldstream Farm,3115,3115,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Apartment Garage-Coldstream Farm,Apartment Garage-Coldstream Farm,3116,3116,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3354 DAIRY RD,3354 DAIRY RD,Heifer Barn Dairy-Coldstream Farm,Heifer Barn Dairy-Coldstream Farm,3117,3117,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1550 ARISTIDES BLVD,1550 ARISTIDES BLVD,Carnahan House,Carnahan House,3118,3118,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Swimming Pool & Plant,Swimming Pool & Plant,3119,3119,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Swine Metal Storage,Swine Metal Storage,3148,3148,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Pond Barn,Pond Barn,3151,3151,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3450 DAIRY RD,3450 DAIRY RD,Dairy Herdsman House-Coldstream Farm,Dairy Herdsman House-Coldstream Farm,3158,3158,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Lower Jersey Shed-Coldstream Farm,Lower Jersey Shed-Coldstream Farm,3163,3163,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3362 DAIRY RD,3362 DAIRY RD,Lower Holstein Shed-Coldstream  Farm,Lower Holstein Shed-Coldstream  Farm,3164,3164,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3386 DAIRY RD,3386 DAIRY RD,Upper Holstein Shed-Coldstream Farm,Upper Holstein Shed-Coldstream Farm,3165,3165,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3378 DAIRY RD,3378 DAIRY RD,Feed Shed Dairy,Feed Shed Dairy,3167,3167,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3338 DAIRY RD,3338 DAIRY RD,Dairy Maternity Barn-Coldstream Farm,Dairy Maternity Barn-Coldstream Farm,3168,3168,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2810 GEORGETOWN RD,2810 GEORGETOWN RD,Dairy Hoop Shed,Dairy Hoop Shed,3169,3169,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3386 DAIRY RD,3386 DAIRY RD,Dairy Housing Research & Teaching Facility,Dairy Housing Research & Teaching Facility,3170,3170,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2863 BECKY SUE LN,2863 BECKY SUE LN,Field 21 Shed-Coldstream Farm,Field 21 Shed-Coldstream Farm,3171,3171,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2969 BECKY SUE LN,2969 BECKY SUE LN,Goat Lot Shed-Coldstream Farm,Goat Lot Shed-Coldstream Farm,3172,3172,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2970 BECKY SUE LN,2970 BECKY SUE LN,Lot 22 Shed-Coldstream Farm,Lot 22 Shed-Coldstream Farm,3173,3173,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3031 BECKY SUE LN,3031 BECKY SUE LN,Animal Path Shed #3-Coldstream Farm,Animal Path Shed #3-Coldstream Farm,3174,3174,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3091 BECKY SUE LN,3091 BECKY SUE LN,Animal Path Shed #4-Coldstream Farm,Animal Path Shed #4-Coldstream Farm,3175,3175,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2610 SPINDLETOP WAY,2610 SPINDLETOP WAY,Horse Barn A-Coldstream Farm,Horse Barn A-Coldstream Farm,3176,3176,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2880 JET PILOT WAY,2880 JET PILOT WAY,Animal Path Barn #10-Coldstream Farm,Animal Path Barn #10-Coldstream Farm,3177,3177,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2830 JET PILOT WAY,2830 JET PILOT WAY,Sheep House-Coldstream Farm,Sheep House-Coldstream Farm,3178,3178,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2790 JET PILOT WAY,2790 JET PILOT WAY,Sheep House #2-Coldstream Farm,Sheep House #2-Coldstream Farm,3179,3179,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2750 JET PILOT WAY,2750 JET PILOT WAY,Sheep House #3-Coldstream Farm,Sheep House #3-Coldstream Farm,3180,3180,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2740 JET PILOT WAY,2740 JET PILOT WAY,Sheep House #4-Coldstream Farm,Sheep House #4-Coldstream Farm,3181,3181,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2865 JET PILOT WAY,2865 JET PILOT WAY,Animal Path Barn -Coldstream Farm,Animal Path Barn -Coldstream Farm,3182,3182,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3394 DAIRY RD,3394 DAIRY RD,Dairy Office Classroom-Coldstream Farm,Dairy Office Classroom-Coldstream Farm,3185,3185,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1490 BULL LEA RD,1490 BULL LEA RD,Veterinary Diagnostic Laboratory,Veterinary Diagnostic Laboratory,3186,3186,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1701 NEWTOWN PIKE,1701 NEWTOWN PIKE,Dairy Round House-Coldstream Farm,Dairy Round House-Coldstream Farm,3192,3192,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3346 DAIRY RD,3346 DAIRY RD,Dairy Calf Barn,Dairy Calf Barn,3198,3198,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+3440 DAIRY RD,3440 DAIRY RD,Dairy Managers House,Dairy Managers House,3199,3199,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+Maine Chance Farm Floater,Maine Chance Farm Floater,3200,3200,Lexington,Lexington,70,70,KY,KY,38.040584,-84.503716,1,,,
+1909 RESEACH FARM RD,1909 RESEACH FARM RD,House Old Office,House Old Office,3201,3201,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+1925 RESEACH FARM RD,1925 RESEACH FARM RD,Horse Barn 1 MO-Maine Chance,Horse Barn 1 MO-Maine Chance,3202,3202,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+1955 RESEACH FARM RD,1955 RESEACH FARM RD,House MO-Maine Chance,House MO-Maine Chance,3203,3203,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2441 EQUINE CAMPUS RD,2441 EQUINE CAMPUS RD,Climate Change Study,Climate Change Study,3204,3204,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2470 EQUINE CAMPUS RD,2470 EQUINE CAMPUS RD,Barn 5 - Communications Building,Barn 5 - Communications Building,3206,3206,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2660 EQUINE CAMPUS RD,2660 EQUINE CAMPUS RD,Rain Study Shed,Rain Study Shed,3210,3210,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2441 EQUINE CAMPUS RD,2441 EQUINE CAMPUS RD,House MO-Maine Chance,House MO-Maine Chance,3211,3211,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,Garage MO-Maine Chance,Garage MO-Maine Chance,3212,3212,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2454 BEAUGAY LN,2454 BEAUGAY LN,Barn 8 Sheep-Maine Chance,Barn 8 Sheep-Maine Chance,3213,3213,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2660 EQUINE CAMPUS RD,2660 EQUINE CAMPUS RD,Rain Simulator Lab,Rain Simulator Lab,3214,3214,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+1995 RESEACH FARM RD,1995 RESEACH FARM RD,Run In Shed #4,Run In Shed #4,3215,3215,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2362 EQUINE CAMPUS RD,2362 EQUINE CAMPUS RD,House -Maine Chance,House -Maine Chance,3216,3216,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2346 EQUINE CAMPUS RD,2346 EQUINE CAMPUS RD,Horse Barn 11-Maine Chance,Horse Barn 11-Maine Chance,3217,3217,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2660 EQUINE CAMPUS RD,2660 EQUINE CAMPUS RD,Run In Shed #7,Run In Shed #7,3218,3218,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2585 JET PILOT WAY,2585 JET PILOT WAY,Horse Barn 9-Maine Chance,Horse Barn 9-Maine Chance,3219,3219,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2150 JET PILOT WAY,2150 JET PILOT WAY,Horse MO-Maine Chance,Horse MO-Maine Chance,3220,3220,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2140 JET PILOT WAY,2140 JET PILOT WAY,Garage MO-Maine Chance,Garage MO-Maine Chance,3221,3221,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2470 EQUINE CAMPUS RD,2470 EQUINE CAMPUS RD,Barn 5 M&O Storage-Maine Chance,Barn 5 M&O Storage-Maine Chance,3222,3222,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2008 STAR PILOT LN,2008 STAR PILOT LN,Horse Barn 3-Maine Chance,Horse Barn 3-Maine Chance,3224,3224,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2546 GORHAM LN,2546 GORHAM LN,Barn 7 MO-Maine Chance,Barn 7 MO-Maine Chance,3227,3227,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,Utility Shed MO-Maine Chance,Utility Shed MO-Maine Chance,3228,3228,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2528 GORHAM LN,2528 GORHAM LN,House MO-Maine Chance,House MO-Maine Chance,3230,3230,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,Horse Run in Shed-Maine Chance,Horse Run in Shed-Maine Chance,3233,3233,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2650 EQUINE CAMPUS RD,2650 EQUINE CAMPUS RD,Horse Farm Mgr Res-Maine Chance,Horse Farm Mgr Res-Maine Chance,3234,3234,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,Horse Run in Shed-Maine Chance,Horse Run in Shed-Maine Chance,3236,3236,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,Horse Run in Shed-Maine Chance,Horse Run in Shed-Maine Chance,3237,3237,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2660 EQUINE CAMPUS RD,2660 EQUINE CAMPUS RD,Stud Barn-Maine Chance,Stud Barn-Maine Chance,3238,3238,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2642 EQUINE CAMPUS RD,2642 EQUINE CAMPUS RD,Receiving Barn-Maine Chance,Receiving Barn-Maine Chance,3239,3239,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2325 TURNER PL,2325 TURNER PL,Shop & Storage Area-Maine Chance,Shop & Storage Area-Maine Chance,3240,3240,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2349 TURNER PL,2349 TURNER PL,Farm Service Center-Maine Chance,Farm Service Center-Maine Chance,3241,3241,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2317 TURNER PL,2317 TURNER PL,Storage Bldg-Maine Chance,Storage Bldg-Maine Chance,3242,3242,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2355 TURNER PL,2355 TURNER PL,Auto Body Shop-Maine Chance,Auto Body Shop-Maine Chance,3243,3243,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2660 EQUINE CAMPUS RD,2660 EQUINE CAMPUS RD,Run In Shed #5,Run In Shed #5,3245,3245,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+1995 RESEACH FARM RD,1995 RESEACH FARM RD,Run In Shed #6,Run In Shed #6,3246,3246,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2673 JET PILOT WAY,2673 JET PILOT WAY,Pony Shed,Pony Shed,3249,3249,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2397 TURNER PL,2397 TURNER PL,Garage-Maine Chance,Garage-Maine Chance,3250,3250,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+1945 RESEACH FARM RD,1945 RESEACH FARM RD,Storage Bldg-Maine Chance,Storage Bldg-Maine Chance,3255,3255,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2611 FASCINATOR LN,2611 FASCINATOR LN,Barn C Shed,Barn C Shed,3258,3258,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2354 EQUINE CAMPUS RD,2354 EQUINE CAMPUS RD,Horse Corral Vet Science-Maine Chance,Horse Corral Vet Science-Maine Chance,3259,3259,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2000 STAR PILOT LN,2000 STAR PILOT LN,Equine Nutritional -Maine Chance,Equine Nutritional -Maine Chance,3260,3260,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2730 JET PILOT WAY,2730 JET PILOT WAY,Pole Shed Bale Storage-Maine Chance,Pole Shed Bale Storage-Maine Chance,3261,3261,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2575 SPINDLETOP WAY,2575 SPINDLETOP WAY,Student Quarters Horticulture-Maine Chance,Student Quarters Horticulture-Maine Chance,3270,3270,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2565 SPINDLETOP WAY,2565 SPINDLETOP WAY,Student Quarters Dairy-Maine Chance,Student Quarters Dairy-Maine Chance,3271,3271,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,Shaving Storage,Shaving Storage,3280,3280,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,Storage Building,Storage Building,3283,3283,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,AG Vet Science,AG Vet Science,3285,3285,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+2322 EQUINE CAMPUS RD,2322 EQUINE CAMPUS RD,Vet Science Office,Vet Science Office,3286,3286,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2415 TURNER PL,2415 TURNER PLace,Dwelling Mobile Hole,Dwelling Mobile Hole,3287,3287,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2801 ROXIE LN,2801 ROXIE LN,Isolation Barn #1,Isolation Barn #1,3288,3288,Lexington,Lexington,84,84,KY,KY,38.040584,-84.503716,,
+2808 ROXIE LN,2808 ROXIE LN,Isolation Barn #2,Isolation Barn #2,3289,3289,Lexington,Lexington,84,84,KY,KY,38.040584,-84.503716,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,AG Hoop Shed #4,AG Hoop Shed #4,3290,3290,Lexington,Lexington,58,58,KY,KY,40511,40511,,
+1995 RESEACH FARM RD,1995 RESEACH FARM RD,FEP Storage Bldg.,FEP Storage Bldg.,3291,3291,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2011 STAR PILOT LN,2011 STAR PILOT LN,Equine Teaching Pavilion-Main Chance,Equine Teaching Pavilion-Main Chance,3292,3292,Lexington,Lexington,70,70,KY,KY,40511,40511,38.109969,-84.489437
+1965 RESEACH FARM RD,1965 RESEACH FARM RD,MC/DOT Storage,MC/DOT Storage,3293,3293,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+2099 NEWTOWN PIKE,2099 NEWTOWN PIKE,Communication Shed,Communication Shed,3294,3294,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+1975 RESEACH FARM RD,1975 RESEACH FARM RD,MC Storage #2,MC Storage #2,3295,3295,Lexington,Lexington,70,70,KY,KY,40511,40511,,
+Spindletop Farm Floater,Spindletop Farm Floater,3300,3300,Lexington,Lexington,84,84,KY,KY,38.040584,-84.503716,1,,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,House Spindletop,House Spindletop,3301,3301,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,House -Spindletop,House -Spindletop,3304,3304,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,MRLS Shed,MRLS Shed,3305,3305,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2715 SPINDLETOP WAY,2715 SPINDLETOP WAY,Horse Corral #3,Horse Corral #3,3306,3306,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Agronomy-Greenhouse-Spindletop,Agronomy-Greenhouse-Spindletop,3307,3307,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2922 SPINDLETOP WAY,2922 SPINDLETOP WAY,Agronomy-Greenhouse #3-Spindletop,Agronomy-Greenhouse #3-Spindletop,3308,3308,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2367 TIM TAM TRL,2367 TIM TAM TRL,Storage Bldg-Spindletop,Storage Bldg-Spindletop,3309,3309,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2603 FASCINATOR LN,2603 FASCINATOR LN,Horse Barn C-Spindletop,Horse Barn C-Spindletop,3310,3310,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2716 SPINDLETOP WAY,2716 SPINDLETOP WAY,Horse Barn B-Spindletop,Horse Barn B-Spindletop,3311,3311,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2786 SPINDLETOP WAY,2786 SPINDLETOP WAY,Small Animal Hospital,Small Animal Hospital,3313,3313,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2785 SPINDLETOP WAY,2785 SPINDLETOP WAY,Tobacco Barn- Spindletop,Tobacco Barn- Spindletop,3315,3315,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Garage-Spindletop,Garage-Spindletop,3316,3316,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2791 SPINDLETOP WAY,2791 SPINDLETOP WAY,House -Spindletop,House -Spindletop,3317,3317,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2799 SPINDLETOP WAY,2799 SPINDLETOP WAY,House -Spindletop,House -Spindletop,3319,3319,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Garage-Spindletop,Garage-Spindletop,3320,3320,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2819 SPINDLETOP WAY,2819 SPINDLETOP WAY,House-Spindletop,House-Spindletop,3321,3321,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2829 SPINDLETOP WAY,2829 SPINDLETOP WAY,House -Spindletop,House -Spindletop,3322,3322,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Garage -Spindletop,Garage -Spindletop,3323,3323,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Garage -Spindletop,Garage -Spindletop,3324,3324,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2839 SPINDLETOP WAY,2839 SPINDLETOP WAY,House -Spindletop,House -Spindletop,3325,3325,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Garage-Spindletop,Garage-Spindletop,3326,3326,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2849 SPINDLETOP WAY,2849 SPINDLETOP WAY,House-Spindletop,House-Spindletop,3327,3327,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2870 SPINDLETOP WAY,2870 SPINDLETOP WAY,Walter W. Zent Mare Reproductive Health Facility,Walter W. Zent Mare Reproductive Health Facility,3328,3328,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2879 SPINDLETOP WAY,2879 SPINDLETOP WAY,Stallion Barn,Stallion Barn,3329,3329,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3030 BOSWELL LN,3030 BOSWELL LN,Old Spindletop Shop,Old Spindletop Shop,3330,3330,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3130 BOSWELL LN,3130 BOSWELL LN,Cottage-Spindletop,Cottage-Spindletop,3332,3332,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3140 BOSWELL LN,3140 BOSWELL LN,Cottage-Spindletop,Cottage-Spindletop,3333,3333,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+Isolation #2 Lab,Isolation #2 Lab,3337,3337,Lexington,Lexington,KY,KY,38.040584,-84.503716,1,,,,,
+2914 SPINDLETOP WAY,2914 SPINDLETOP WAY,Dwelling-Spindletop,Dwelling-Spindletop,3339,3339,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2918 SPINDLETOP WAY,2918 SPINDLETOP WAY,Storage Barn-Spindletop,Storage Barn-Spindletop,3340,3340,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2789 SPINDLETOP WAY,2789 SPINDLETOP WAY,DLAR Storage Facility,DLAR Storage Facility,3343,3343,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2801 ROXIE LN,2801 ROXIE LN,Isolation #1 Lab - Spindletop,Isolation #1 Lab - Spindletop,3346,3346,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2801 ROXIE LN,2801 ROXIE LN,Isolation #1 Storage Bldg,Isolation #1 Storage Bldg,3347,3347,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2922 SPINDLETOP WAY,2922 SPINDLETOP WAY,Forage Research Greenhouse,Forage Research Greenhouse,3348,3348,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3080 SHOSHONE LN,3080 SHOSHONE LN,Turf Center-Spindletop,Turf Center-Spindletop,3349,3349,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3070 SHOSHONE LN,3070 SHOSHONE LN,Goat Barn-Spindletop,Goat Barn-Spindletop,3350,3350,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Vacant Dog Kennel-Spindletop,Vacant Dog Kennel-Spindletop,3351,3351,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Vacant Dog Kennel-Spindletop,Vacant Dog Kennel-Spindletop,3352,3352,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Grounds Office-Spindletop,Grounds Office-Spindletop,3353,3353,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Tennis Pro Shop-Spindletop,Tennis Pro Shop-Spindletop,3354,3354,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Tennis Pro Shop-Spindletop,Tennis Pro Shop-Spindletop,3355,3355,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Garage Apartments-Spindletop,Garage Apartments-Spindletop,3357,3357,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Mansion-Spindletop,Mansion-Spindletop,3358,3358,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Dressing Rooms-Spindletop,Dressing Rooms-Spindletop,3359,3359,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Recreation Bldg.-Spindletop,Recreation Bldg.-Spindletop,3360,3360,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Pleasure Barn-Spindletop,Pleasure Barn-Spindletop,3361,3361,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Scale House-Spindletop,Scale House-Spindletop,3364,3364,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Storge Bldg for 3362-Spindletop,Storge Bldg for 3362-Spindletop,3365,3365,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3088 SHOSHONE LN,3088 SHOSHONE LN,Storage Bldg-Spindletop,Storage Bldg-Spindletop,3366,3366,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2919 SPINDLETOP WAY,2919 SPINDLETOP WAY,Equipt. Storage Bldg.-Spindletop,Equipt. Storage Bldg.-Spindletop,3367,3367,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2906 SPINDLETOP WAY,2906 SPINDLETOP WAY,Wheat Greenhouse Headhouse,Wheat Greenhouse Headhouse,3368,3368,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2780 RESEARCH PARK DR,2780 RESEARCH PARK DRive,Council of State Governments,Council of State Governments,3370,3370,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2760 RESEARCH PARK DR,2760 RESEARCH PARK DRive,Council of State Governments - Sprague Building,Council of State Governments - Sprague Building,3371,3371,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3414 IRON WORKS PIKE,3414 IRON WORKS PIKE,Bath House-Spindletop,Bath House-Spindletop,3372,3372,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2901 SPINDLETOP WAY,2901 SPINDLETOP WAY,Tobacco Barn -Spindletop,Tobacco Barn -Spindletop,3373,3373,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2940 AGRONOMY RD,2940 AGRONOMY RD,Crop Dryer Bldg.-Spindletop,Crop Dryer Bldg.-Spindletop,3374,3374,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2951 AGRONOMY RD,2951 AGRONOMY RD,Field Lab-Spindletop,Field Lab-Spindletop,3375,3375,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Climatological  Lab-Spindletop,Climatological  Lab-Spindletop,3376,3376,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2915 SPINDLETOP WAY,2915 SPINDLETOP WAY,Agronomy storage unit,Agronomy storage unit,3377,3377,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Animal Care Barn-Spindletop,Animal Care Barn-Spindletop,3378,3378,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2920 AGRONOMY RD,2920 AGRONOMY RD,Foundation Seed Proc-Spindletop,Foundation Seed Proc-Spindletop,3379,3379,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 TIM TAM TRL,2540 TIM TAM TRL,Ag Engineering Barn-Spindletop,Ag Engineering Barn-Spindletop,3380,3380,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2500 RESEARCH PARK DR,2500 RESEARCH PARK DR,KGS Core Library Carport,KGS Core Library Carport,3381,3381,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,CAER Laboratory 1,CAER Laboratory 1,3382,3382,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Chemical Storage Building-Spindletop,Chemical Storage Building-Spindletop,3383,3383,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2530 TIM TAM TRL,2530 TIM TAM TRL,Research Tobacco Barn-Spindletop,Research Tobacco Barn-Spindletop,3384,3384,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2595 FASCINATOR LN,2595 FASCINATOR LN,Vet Science Dwelling,Vet Science Dwelling,3385,3385,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2979 AGRONOMY RD,2979 AGRONOMY RD,Agronomy Equipment #4,Agronomy Equipment #4,3386,3386,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2520 TIM TAM TRL,2520 TIM TAM TRL,Metal Curing Barn-Spindletop,Metal Curing Barn-Spindletop,3387,3387,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2975 AGRONOMY RD,2975 AGRONOMY RD,Ag Machine Storage,Ag Machine Storage,3388,3388,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2908 SPINDLETOP WAY,2908 SPINDLETOP WAY,Agronomy Greenhouse-Spindletop,Agronomy Greenhouse-Spindletop,3389,3389,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2955 AGRONOMY RD,2955 AGRONOMY RD,Agronomy Pesticide Storage-Spindletop,Agronomy Pesticide Storage-Spindletop,3390,3390,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2936 SPINDLETOP WAY,2936 SPINDLETOP WAY,Agronomy Fuel Storage Shed-Spindletop,Agronomy Fuel Storage Shed-Spindletop,3391,3391,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2906 SPINDLETOP WAY,2906 SPINDLETOP WAY,Agronomy Greenhouse 2-Spindletop,Agronomy Greenhouse 2-Spindletop,3392,3392,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2659 FASCINATOR LN,2659 FASCINATOR LN,Mobile Home-Spindletop,Mobile Home-Spindletop,3393,3393,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2801 ROXIE LN,2801 ROXIE LN,Isolation #1 Generator Building,Isolation #1 Generator Building,3394,3394,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3150 BOSWELL LN,3150 BOSWELL LN,Entomology Research Storage,Entomology Research Storage,3395,3395,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2675 FASCINATOR LN,2675 FASCINATOR LN,Pole Shed Bale Storage-Spindletop,Pole Shed Bale Storage-Spindletop,3396,3396,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3180 BOSWELL LN,3180 BOSWELL LN,Entomology Storage,Entomology Storage,3399,3399,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+South Farm Floater,South Farm Floater,3400,3400,Lexington,Lexington,82,82,KY,KY,38.040584,-84.503716,1,,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Horticultural Research and Educational Facility (under construction),Horticultural Research and Educational Facility (under construction),3401,3401,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,South Farm Equipment Storage Shed,South Farm Equipment Storage Shed,3402,3402,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,South Farm Shop,South Farm Shop,3403,3403,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4344 EMMERT FARM LN,4344 EMMERT FARM LN,Hazardous Material Storage,Hazardous Material Storage,3404,3404,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4344 EMMERT FARM LN,4344 EMMERT FARM LN,Organic Cooler Building,Organic Cooler Building,3405,3405,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4344 EMMERTS FARM RD,4344 EMMERTS FARM RD,Vegetable High Tunnel East,Vegetable High Tunnel East,3406,3406,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4344 EMMERTS FARM RD,4344 EMMERTS FARM RD,Vegetable High Tunnel West,Vegetable High Tunnel West,3407,3407,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4344 EMMERTS FARM RD,4344 EMMERTS FARM RD,High Tunnel Storage,High Tunnel Storage,3412,3412,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,New Implement Shed-South Farm,New Implement Shed-South Farm,3413,3413,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Field Research Lab-South Farm,Field Research Lab-South Farm,3422,3422,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Vet Science Isolation Bldg.-South Farm,Vet Science Isolation Bldg.-South Farm,3423,3423,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Vet Science Isolation Bldg.-South Farm,Vet Science Isolation Bldg.-South Farm,3424,3424,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Vet Science Isolation Bldg.-South Farm,Vet Science Isolation Bldg.-South Farm,3425,3425,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Vet Science Isolation Bldg.-South Farm,Vet Science Isolation Bldg.-South Farm,3426,3426,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Vet Science Isolation Bldg.-South Farm,Vet Science Isolation Bldg.-South Farm,3427,3427,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Hay & Feed Storage Bldg.-South Farm,Hay & Feed Storage Bldg.-South Farm,3428,3428,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Autopsy Lab/L Quarters-South Farm,Autopsy Lab/L Quarters-South Farm,3429,3429,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Hort Equipt Storage-South Farm,Hort Equipt Storage-South Farm,3431,3431,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Managers House-South Farm,Managers House-South Farm,3434,3434,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Headhouse,Headhouse,3436,3436,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,Equipment Building #3,Equipment Building #3,3437,3437,Lexington,Lexington,85,85,KY,KY,40514,40514,,
+2910 AGRONOMY RD,2910 AGRONOMY RD,'Miller''s Greenhouse','Miller''s Greenhouse',3501,3501,Lexington,Lexington,84,84,KY,KY,40514,40514,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Seed Shed,Seed Shed,3502,3502,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2965 AGRONOMY RD,2965 AGRONOMY RD,Agronomy Storage #2,Agronomy Storage #2,3503,3503,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2775 SPINDLETOP WAY,2775 SPINDLETOP WAY,Hoop Shed 3,Hoop Shed 3,3504,3504,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2971 MILDRED WAY,2971 Mildred Way,Vet Science Run-In Shed,Vet Science Run-In Shed,3506,3506,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+2902 SPINDLETOP WAY,2902 SPINDLETOP WAY,wheat Greenhouse,wheat Greenhouse,3508,3508,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Barn C Run-In Shed - Spindletop,Barn C Run-In Shed - Spindletop,3510,3510,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+300 ALEXANDRIA DR,300 Alexandria Dr,Mycology Building (Alexandria @ Leestown Rd),Mycology Building (Alexandria @ Leestown Rd),3617,3617,Lexington,Lexington,76,76,KY,KY,40510,40510,,
+310 SOUTH LIMESTONE ST,310 SOUTH LIMESTONE ST,Good Samaritan Hospital (UK Healthcare),Good Samaritan Hospital (UK Healthcare),8633,8633,Lexington,Lexington,0,0,KY,KY,40508,40508,38.04293,-84.500435
+1101 SOUTH LIMESTONE ST,1101 SOUTH LIMESTONE ST,1101 SOUTH LIMESTONE ST,1101 SOUTH LIMESTONE ST,9127,9127,Lexington,Lexington,0,0,KY,KY,40506,40506,38.029889,-84.510468
+217 ELM TREE LN,217 Elm Tree Ln,Polk Dalton Clinic,Polk Dalton Clinic,9847,9847,Lexington,Lexington,0,0,KY,KY,40505,40505,,
+1100 SOUTH LIMESTONE ST,1100 block S. Limestone,Shriners 4th & 5th Floors,Shriners 4th & 5th Floors,9853,9853,Lexington,Lexington,1,1,KY,KY,40508,40508,38.029911,-84.510024
+1020 EXPORT ST,1020 Export St,Anthropology Research Building,Anthropology Research Building,9854,9854,Lexington,Lexington,0,0,KY,KY,40504,40504,38.035985,-84.514376
+3250 NEWTOWN PIKE,3250 NEWTOWN PIKE,Plant Holding Bldg-Spindletop,Plant Holding Bldg-Spindletop,0006T,0006T,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+3250 NEWTOWN PIKE,3250 NEWTOWN PIKE,New GreenHouse-Spindletop,New GreenHouse-Spindletop,0007T,0007T,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+4321 EMMERT FARM LN,4321 EMMERT FARM LN,New Storage-South Farm,New Storage-South Farm,0026T,0026T,Lexington,Lexington,82,82,KY,KY,40514,40514,,
+150 WASHINGTON AVE,150 WASHINGTON AVE,GreenHouse-UK,GreenHouse-UK,0061A,0061A,Lexington,Lexington,0,0,KY,KY,40546,40546,,
+150 WASHINGTON AVE,150 WASHINGTON AVE,GreenHouse-UK,GreenHouse-UK,0061B,0061B,Lexington,Lexington,0,0,KY,KY,40546,40546,,
+3250 IRON WORKS PIKE,3250 IRON WORKS PIKE,Silo-Spindletop,Silo-Spindletop,3350A,3350A,Lexington,Lexington,84,84,KY,KY,40511,40511,,
+465 COMPLEX DR,465 COMPLEX DR,Complex Commons Loading Dock/Tunnel,Complex Commons Loading Dock/Tunnel,N/A,N/A,Lexington,Lexington,0,0,KY,KY,40526,40526,,
+744 WOODLAND AVE,465 COMPLEX DR,Smith Hall - Tunnel Access Point,Complex Commons Loading Dock/Tunnel,N/A,N/A,Lexington,Lexington,0,0,KY,KY,40526,40526,,
+368 ROSE ST,368 ROSE ST,Alpha Omicron Pi Sorority,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40508,40508,38.038245,-84.49868,-0.00004,38.038285,6.5e-005,
+109 DANTZLER DR,109 DANTZLER DR,Ceres Sorority,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40503,40508,38.038245,-84.49868,0.014804,38.023441,-0.000384,
+1410 AUBUDON DR,1410 AUBUDON DR,Delta Tau Delta Fraternity,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40503,40508,38.038245,-84.49868,0.011244,38.027001,-0.002075,
+1500 COLLEGE WAY,1500 COLLEGE WAY,Hope Lodge (American Cancer Society),Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40502,40508,38.038245,-84.49868,0.015905,38.02234,0.012554,
+1504 COLLEGE WAY,1504 COLLEGE WAY,Hope Lodge/American Cancer Society Office Building,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40502,40508,38.038245,-84.49868,0.016216,38.022029,0.013056,
+235 EAST MAXWELL ST,235 EAST MAXWELL ST,Kappa Alpha Fraternity,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40508,40508,38.038245,-84.49868,-0.002497,38.040742,-0.001695,
+238 EAST MAXWELL ST,238 EAST MAXWELL ST,Kappa Kappa Gamma Sorority,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40508,40508,38.038245,-84.49868,-0.001961,38.040206,-0.001727,
+1398 SPORTS CENTER DR,1398 SPORTS CENTER DR,K-Men Association,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40502,40508,38.038245,-84.49868,0.013055,38.02519,0.009901,
+653 MAXWELTON CT,653 MAXWELTON CT.,Phi Gamma Delta Fraternity,653 MAXWELTON CT.,77,77,Lexington,Lexington,0,KY,KY,40508,40508,38.036251,5e-006,1
+403 AYLESFORD PL,403 AYLESFORD PL,Phi Kappa Psi Fraternity,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40508,40508,38.038245,-84.49868,0.001871,38.036374,0.001909,
+236 LEXINGTON AVE,236 LEXINGTON AVE,Phi Kappa Tau Fraternity,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40508,40508,38.038245,-84.49868,-0.004179,38.042424,-0.003057,
+409 COLUMBIA AVE,409 COLUMBIA AVE,Pi Beta Phi Sorority,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40508,40508,38.038245,-84.49868,0.004071,38.034174,0.002182,
+364 AYLESFORD PL,364 AYLESFORD PL,Sigma Pi Fraternity,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40508,40508,38.038245,-84.49868,0.001649,38.036596,0.002855,
+417 COLUMBIA AVE,417 COLUMBIA AVE,Alpha Phi Sorority,Alpha Phi Sorority,9925,9925,Lexington,Lexington,1,1,KY,KY,40508,40508,38.033867,-84.500351
+1300 SPORTS CENTER DR,1300 SPORTS CENTER DR,Ronald McDonald House,Alpha Omicron Pi Sorority,Lexington,Lexington,KY,KY,40506,40508,38.038245,-84.49868,0.014887,38.023358,0.011945,
+1101 VETERANS DR,1101 VETERANS DR,VA Medical Hospital,VA Medical Hospital,2142,2142,Lexington,Lexington,99,99,KY,KY,40502,40502,38.029732,-84.506738
+430 W VINE ST,430 W Vine St,Rupp Arena,Rupp Arena,2147,2147,Lexington,Lexington,99,99,KY,KY,40508,40508,38.049347,-84.502533
+2624 RESEARCH PARK DR,2624 RESEARCH PARK DR,Spindletop Administration Building,Spindletop Administration Building,3312,3312,Lexington,Lexington,99,99,KY,KY,40511,40511,,
+1 QUALITY ST,1 Quality St,KU Building,KU Building,8002,8002,Lexington,Lexington,99,99,KY,KY,40507,40507,,
+3290 BLAZER PKWY,3290 Blazer Pkwy,8634,8634,Lexington,Lexington,99,99,KY,KY,40509,40509,38.00231,-84.438701,,
+2208 LIBERTY RD,2208 Liberty Rd,Eastside Technical Center,Eastside Technical Center,9102,9102,Lexington,Lexington,99,99,KY,KY,40509,40509,,
+353 WALLER AVE,353 WALLER AVE,Lexington Manor Nursing Home,Lexington Manor Nursing Home,9443,9443,Lexington,Lexington,99,99,KY,KY,40503,40503,,
+2540 RESEARCH PARK DR,2540 RESEARCH PARK DR,Kentucky Energy Center,Kentucky Energy Center,9445,9445,Lexington,Lexington,99,99,KY,KY,40511,40511,,
+1135 RED MILE PL,1135 RED MILE PL,Polk Dalton Family Care Clinic,Polk Dalton Family Care Clinic,9486,9486,Lexington,Lexington,98,98,KY,KY,40504,40504,,
+1500 BULL LEA RD Suite 100,1500 BULL LEA RD Suite 100,Coldstream Center,Coldstream Center,9487,9487,Lexington,Lexington,98,98,KY,KY,40511,40511,,
+342 WALLER AVE,342 WALLER AVE,9489,9489,Lexington,Lexington,98,98,KY,KY,40504,40504,38.029187,-84.517715,,
+1145 RED MILE RD,1145 RED MILE RD,AGR Ext Fayette County,AGR Ext Fayette County,9645,9645,Lexington,Lexington,99,99,KY,KY,40504,40504,,
+135 EAST MAXWELL ST,135 EAST MAXWELL ST,Professional Arts Center (Samaritan),Professional Arts Center (Samaritan),9733,9733,Lexington,Lexington,98,98,KY,KY,40508,40508,,
+120 QUINTON CT,120 Quinton Ct,Literacy Center (College of Ed),Literacy Center (College of Ed),9804,9804,Lexington,Lexington,98,98,KY,KY,40509,40509,,
+1517 NICHOLASVILLE RD,1517 NICHOLASVILLE RD,'Doctor''s Office Park','Doctor''s Office Park',9810,9810,Lexington,Lexington,98,98,KY,KY,40503,40503,,
+1080 EXPORT ST,1080 Export St,UK Federal Credit Union,UK Federal Credit Union,9812,9812,Lexington,Lexington,98,98,KY,KY,40504,40504,,
+290 ALUMNI DR,290 ALUMNI DR,"Child Development Center of the Bluegrass, Inc.","Child Development Center of the Bluegrass, Inc.",9813,9813,Lexington,Lexington,1,1,KY,KY,40503,40503,38.021108,-84.508034
+695 WINNIE ST,695 Winnie St,Royal Lexington (Lease),Royal Lexington (Lease),9816,9816,Lexington,Lexington,98,98,KY,KY,40508,40508,38.036865,-84.511568
+245 FOUNTAIN CT,245 Fountain Court,9822,9822,Lexington,Lexington,98,98,KY,KY,40509,40509,38.005087,-84.438562,,
+1648 MCGRATHIANA ST,1648 McGrathiana STE #50,Coldstream CIE,Coldstream CIE,9825,9825,Lexington,Lexington,KY,KY,40511,40511,38.097134,-84.490842,,
+845 RED MILE RD,845 RED MILE RD,845 RED MILE RD (University Trails),845 RED MILE RD (University Trails),9831,9831,Lexington,Lexington,KY,KY,40504,40504,38.043891,-84.525186,,
+1401 NICHOLASVILLE RD,1401 NICHOLASVILLE RD,Residental Medical Research,Residental Medical Research,9838,9838,Lexington,Lexington,98,98,KY,KY,40503,40503,,
+2195 HARRODSBURG RD,2195 Harrodsburg Rd,Turfland Clinic,Turfland Clinic,9839,9839,Lexington,Lexington,98,98,KY,KY,38.025696,-84.54065,,
+2400 GREATSTONE PT,2400 Greatstone Pt,KY Clinic South,KY Clinic South,9844,9844,Lexington,Lexington,98,98,KY,KY,40504,40504,,
+1525 BULL LEA RD,1525 BULL LEA RD,Interdisciplinary Human Develpoment Institute,Interdisciplinary Human Develpoment Institute,9845,9845,Lexington,Lexington,98,98,KY,KY,40511,40511,,
+217 Elm Tree Ln,Ky Clinic North Trailer,Ky Clinic North Trailer,9850,9850,Lexington,Lexington,98,98,KY,KY,40505,40505,38.046029,,
+333 WALLER AVE,333 WALLER AVE,Offices (Dental Public Health),Offices (Dental Public Health),9855,9855,Lexington,Lexington,98,98,KY,KY,40503,40503,,
+330 E MAIN ST,330 E Main St,Commerce Lexington,Commerce Lexington,9857,9857,Lexington,Lexington,98,98,KY,KY,40507,40507,,
+845 ANGLIANA AVE,845 Angliana Ave,845 Angliana Ave,845 Angliana Ave,9861,9861,Lexington,Lexington,98,98,KY,KY,40508,40508,,
+2317 ALUMNI PARK PL,2317 Alumni Park Plaza,9862,9862,Lexington,Lexington,98,98,KY,KY,37.993761,-84.465052,1,,,
+5751 BRIAR HILL RD,5751 Briar Hill Rd,Bluegrass Station,Bluegrass Station,9880,9880,Lexington,Lexington,98,98,KY,KY,38.073407,-84.31655,,
+1080 S BROADWAY STE 106,1080 S BROADWAY STE 106,OCSS at Simpson Center,OCSS at Simpson Center,9892,9892,Lexington,Lexington,KY,KY,40504,40504,38.036628,-84.517291,,
+465 E HIGH ST,465 E High St,465 E. High St. Lexington,465 E. High St. Lexington,9894,9894,Lexington,Lexington,98,98,KY,KY,38.037984,-84.492819,,
+2347 STERLINGTON RD,2347 Sterlington Rd,9897,9897,Lexington,Lexington,98,98,KY,KY,37.993064,-84.463859,1,,,
+736 W MAIN ST,736 W Main St,Salvation Army,Salvation Army,9910,9910,Lexington,Lexington,99,99,KY,KY,40508,40508,,
+264 RICHARDSON PL,264 Richardson Place,Edythe Hayes Middle School,Edythe Hayes Middle School,9911,9911,Lexington,Lexington,99,99,KY,KY,40509,40509,,
+601 PERIMETER DR,601 Perimeter Drive,UK Healthcare Sports Medicine,UK Healthcare Sports Medicine,9913,9913,Lexington,Lexington,98,98,KY,KY,40517,40517,,
+1350 BULL LEA RD,1350 BULL LEA RD,(new) Eastern State Hospital,(new) Eastern State Hospital,9921,9921,Lexington,Lexington,99,99,KY,KY,40511,40511,38.084885,-84.497802
+343 WALLER AVE,343 WALLER AVE,9922,9922,Lexington,Lexington,98,98,KY,KY,40503,40503,38.030276,-84.516901,,
+1342 BULL LEA RD.,1342 BULL LEA RD.,Eastern State Hospital Central Plant,Eastern State Hospital Central Plant,9923,9923,Lexington,Lexington,99,99,KY,KY,40511,40511,38.087783,-84.494381
+4850 LEESTOWN RD,4850 Leestown Rd,UK Golf Practice Facility,UK Golf Practice Facility,9926,9926,Lexington,Lexington,99,99,KY,KY,40511,40511,,
+1358 BULL LEA RD,1358 BULL LEA RD,Eastern State Hospital Central KY Recovery Center #1,Eastern State Hospital Central KY Recovery Center #1,9936,9936,Lexington,Lexington,99,99,KY,KY,40511,40511,38.087783,-84.494381
+1366 BULL LEA RD.,1366 BULL LEA RD.,Eastern State Hospital Central KY Recovery Center #2,Eastern State Hospital Central KY Recovery Center #2,9937,9937,Lexington,Lexington,99,99,KY,KY,40511,40511,38.087783,-84.494381
+1374 BULL LEA RD.,1374 BULL LEA RD.,Eastern State Hospital Central KY Recovery Center #3,Eastern State Hospital Central KY Recovery Center #3,9938,9938,Lexington,Lexington,99,99,KY,KY,40511,40511,38.087783,-84.494381
+1382 BULL LEA RD.,1382 BULL LEA RD.,Eastern State Hospital Central KY Recovery Center #4,Eastern State Hospital Central KY Recovery Center #4,9939,9939,Lexington,Lexington,99,99,KY,KY,40511,40511,38.087783,-84.494381
+3470 BLAZER PKWY,3470 Blazer Parkway,9941,9941,Lexington,Lexington,98,98,KY,KY,40509,40509,37.99958,-84.435997,,
+2355 HUGUENARD DR,2355 Huguenard Dr,9947,9947,Lexington,Lexington,98,98,KY,KY,40503,40503,38.006062,-84.523343,,
+2050 VERSAILLES RD,2050 Versailles Rd,Cardinal Hill Hospital,Cardinal Hill Hospital,9949,9949,Lexington,Lexington,98,98,KY,KY,40504,40504,,
+100 FAIR OAKS LN,100 Fair Oaks Ln,9950,9950,Lexington,Lexington,99,99,KY,KY,38.046642,-84.546994,1,,,
+2365 HARODSBURG RD,2365 Harrodsburg Rd,9953,9953,Lexington,Lexington,98,98,KY,KY,40504,40504,38.021067,-84.54591,,
+2659 REGENCY RD,2659 Regency Rd,"Old Sullivan College,LCC-S","Old Sullivan College,LCC-S",9961,9961,Lexington,Lexington,98,98,KY,KY,40503,40503,,
+176 PASADENA DR,176 Pasadena Dr,9982,9982,Lexington,Lexington,99,99,KY,KY,40506,40506,38.003941,-84.522428,,
+138 LEADER AVE,138 LEADER AVE,College of Medicine Building,College of Medicine Building,9983,9983,Lexington,Lexington,1,1,KY,KY,40508,40508,38.033326,-84.510511
+2333 ALUMNI PARK PL,2333 Alumni Park Plaza,KMSF,KMSF,9984,9984,Lexington,Lexington,98,98,KY,KY,40517,40517,,
+"2750 PALUMBO DR, Unit# 948","2750 Palumbo Dr, Unit# 948",Stor All Man O� War,Stor All Man O� War,9987,9987,Lexington,Lexington,98,98,KY,KY,40509,40509,,
+1760 NICHOLASVILLE RD,1760 NICHOLASVILLE RD,"Central Baptist, Building C","Central Baptist, Building C",9992,9992,Lexington,Lexington,99,99,KY,KY,40503,40503,,
+771 W MAIN ST,771 W Main St,Rock of Ages,Rock of Ages,9997,9997,Lexington,Lexington,98,98,KY,KY,38.054906,-84.505819,,
+4810 ALBEN BARKLEY DR,4810 Alben Barkley Dr,Crisp Bldg/Challenger Learning Center,Crisp Bldg/Challenger Learning Center,2301,2301,Paducah,Paducah,23,23,KY,KY,42002,42002,,
+3000 IRVIN COBB DR,3000 Irvin Cobb Dr.,Crisp Building (former Pepsi Bottling Co.),Crisp Building (former Pepsi Bottling Co.),2310,2310,Paducah,Paducah,23,23,KY,KY,42001,42001,,
+750 MORTON BLVD,750 Morton Blvd,Bailey-Stumbo Building (UK Center for Rural Health),Bailey-Stumbo Building (UK Center for Rural Health),2401,2401,Hazard,Hazard,24,24,KY,KY,41701,41701,,
+1401 CORPORATE PK,1401 Corporate Park,KY Geological Survey (field Henderson),KY Geological Survey (field Henderson),2500,2500,Henderson,Henderson,25,25,KY,KY,42420,42420,,
+1401 CORPORATE CT,1401 Corporate Ct,Henderson Garage,Henderson Garage,2501,2501,Henderson,Henderson,25,25,KY,KY,42420,42420,,
