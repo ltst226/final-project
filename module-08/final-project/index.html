@@ -7,13 +7,13 @@
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/simple-statistics/1.0.0/simple_statistics.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js"></script>
-    <script src="http://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
-    
+    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-heat/v0.1.3/leaflet-heat.js'></script>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet' />
 
     <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
     <style>
@@ -79,6 +79,8 @@
         <p class="attribute">Attribute: <span></span></p>
     </div>
 
+<script>'uk-thefts.js'</script>    
+    
 <script>
     
     var options = {
@@ -156,17 +158,6 @@
     })
     }
     
-    function updateMap(data){
-        
-    }
-    function heatMap() {
-        
-        L.tileLayer.maskCanvas();
-        layer.setData(point);
-        map.addLayer(layer);
-        
-    }
-    
     
     function createSliderUI() {
         var sliderControl = L.control({position: 'bottomleft'});
@@ -183,6 +174,67 @@
                 attribute=$(this).val();
                 updateMap();
         });
+    }
+    function updateMap() {
+        
+         $.getJSON("uk-thefts.json", function(data) {
+        point = L.geoJson(data, {
+            pointToLayer: function(feature, layer) {
+                return L.circleMarker(layer, style);
+            },
+            filter: function(feature) {
+                if(feature.properties.Attribute == attribute){
+                    return feature;
+                }else{
+                    if(feature.properties.Attribute !== attribute)
+                        return false;
+                }
+            }
+        }).addTo(map);
+             
+        var info = $('#info');
+        
+        point.on('mouseover', function(e) {
+            var props = e.layer.feature.properties;
+            info.show();
+            $('#info span').text(props["Incident D"]);
+            $('.date span:first-child').text(props["Crime Date"]);
+            $('.attribute span:first-child').text(props.Attribute);
+            
+            e.layer.setStyle({fillOpacity: .6});
+        });
+        point.on('mouseout', function(e) {
+            info.hide();
+            e.layer.setStyle({fillOpacity: 1});
+        });
+        $(document).mousemove(function(e){
+            info.css({"left": e.pageX + 6, "top": e.pageY - info.height()-15});
+            if(info.offset().top < 4) {
+                info.css({"top": e.pageY + 15});
+                }
+                
+            if(info.offset().left + info.width() >= $(document).width()-60) {
+                    info.css({"left": e.pageX - info.width() - 30});
+                   }
+        });
+    })   
+    }
+    
+      function heatMap(crimes) {
+          
+          var heat = L.heatLayer(point).addTo(map);
+          var draw = true;
+        
+        map.on({
+            movestart: function () { draw = false; },
+            moveend:   function () { draw = true; },
+            mousemove: function (e) {
+                if (draw) {
+                    heat.addLatLng(e.latlng);
+                }
+            }
+        })
+        
     }
     
         
