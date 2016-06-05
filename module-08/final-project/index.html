@@ -5,15 +5,13 @@
     
     <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/simple-statistics/1.0.0/simple_statistics.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js"></script>
-    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-heat/v0.1.3/leaflet-heat.js'></script>
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-    
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
     <link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet' />
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
 
     <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
     <style>
@@ -71,15 +69,15 @@
     
         <div id='map'></div>
         <div id='ui-controls'>
-        <label><span class="min">Jan 2015</span><span class="max"> May 2016</span><input type="range" min="1" max="17" step="1" value="1" class="year-slider"></input></label>
+        <label><span class="min">Jan 2013</span><span class="max"> June 2016</span><input type="range" min="1" max="42" step="1" value="1" class="year-slider"></input></label>
         </div>
         <div id="info">
         <p>Offense: <span></span> </p>
         <p class="date">Date: <span></span></p>
-        <p class="attribute">Attribute: <span></span></p>
-    </div>
+        </div>
 
-<script>'uk-thefts.js'</script>    
+<!--<script>'uk-thefts.js'</script>-->
+    <script>'full_crime_log.js'</script>
     
 <script>
     
@@ -105,7 +103,7 @@
     var point,
         min = 1,
         max = 17,
-        attribute = 1;
+        attribute = 2013;
     
     var style = {
         color: 'blue',
@@ -113,29 +111,37 @@
         fillOpacity: 1,
         radius: 5
     }
+    
     drawMap();
     
-    function drawMap() {
     
-    $.getJSON("uk-thefts.json", function(data) {
+   
+    function drawMap(){
+    $.getJSON('https://lsteele.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM full_crime_log', function(data) {
+        //console.log(data);
+
         point = L.geoJson(data, {
-            pointToLayer: function(feature, layer) {
-                return L.circleMarker(layer, style);
+            pointToLayer: function(feature, latlng) {
+                return L.circleMarker(latlng, {
+                    color: 'blue',
+                    weight: 1,
+                    fillColor: 'red',
+                    radius: 5
+                });
             },
-            filter: function(feature) {
-                if(feature.properties.Attribute == attribute){
-                    return feature;
-                }
+            filter: function(feature, layer){
+                return feature.properties.category == "Theft";
             }
-        }).addTo(map);
+        }).addTo(map);    
+    
+
     var info = $('#info');
         
         point.on('mouseover', function(e) {
             var props = e.layer.feature.properties;
             info.show();
-            $('#info span').text(props["Incident D"]);
-            $('.date span:first-child').text(props["Crime Date"]);
-            $('.attribute span:first-child').text(props.Attribute);
+            $('#info span').text(props["category"]);
+            $('.date span:first-child').text(props["crime_date_and_time"]);
             
             e.layer.setStyle({fillOpacity: .6});
         });
@@ -153,9 +159,9 @@
                     info.css({"left": e.pageX - info.width() - 30});
                    }
         });
-        
-        createSliderUI();
     })
+        
+        //createSliderUI();
     }
     
     
@@ -172,70 +178,12 @@
         $('.year-slider')
             .on('input change', function() {
                 attribute=$(this).val();
-                updateMap();
+
         });
-    }
-    function updateMap() {
-        
-         $.getJSON("uk-thefts.json", function(data) {
-        point = L.geoJson(data, {
-            pointToLayer: function(feature, layer) {
-                return L.circleMarker(layer, style);
-            },
-            filter: function(feature) {
-                if(feature.properties.Attribute == attribute){
-                    return feature;
-                }else{
-                    if(feature.properties.Attribute !== attribute)
-                        return false;
-                }
-            }
-        }).addTo(map);
-             
-        var info = $('#info');
-        
-        point.on('mouseover', function(e) {
-            var props = e.layer.feature.properties;
-            info.show();
-            $('#info span').text(props["Incident D"]);
-            $('.date span:first-child').text(props["Crime Date"]);
-            $('.attribute span:first-child').text(props.Attribute);
-            
-            e.layer.setStyle({fillOpacity: .6});
-        });
-        point.on('mouseout', function(e) {
-            info.hide();
-            e.layer.setStyle({fillOpacity: 1});
-        });
-        $(document).mousemove(function(e){
-            info.css({"left": e.pageX + 6, "top": e.pageY - info.height()-15});
-            if(info.offset().top < 4) {
-                info.css({"top": e.pageY + 15});
-                }
-                
-            if(info.offset().left + info.width() >= $(document).width()-60) {
-                    info.css({"left": e.pageX - info.width() - 30});
-                   }
-        });
-    })   
     }
     
-      function heatMap(crimes) {
-          
-          var heat = L.heatLayer(point).addTo(map);
-          var draw = true;
-        
-        map.on({
-            movestart: function () { draw = false; },
-            moveend:   function () { draw = true; },
-            mousemove: function (e) {
-                if (draw) {
-                    heat.addLatLng(e.latlng);
-                }
-            }
-        })
-        
-    }
+    
+    
     
         
 
