@@ -184,9 +184,6 @@
     
     var heatLayer;
     
-    drawMap();
-
-    function drawMap(){
     $.getJSON('https://lsteele.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM full_crime_log_1', function(data) {
 
         point = L.geoJson(data, {
@@ -234,11 +231,14 @@
                     info.css({"left": e.pageX - info.width() - 30});
                    }
         });
-    })
+        
         createSliderUI();
-        makeHeatMap(point);
-    
-    }
+        makeHeatMap(point);        
+        
+        
+    });
+
+
     function updateMap() {
         
         tempRemoved.eachLayer(function(layer) {
@@ -274,13 +274,19 @@
         });
     }
     
-    function makeHeatMap(data, point){
+    function makeHeatMap(point){
+        
+        console.log(point)
         
         var heatPoints = [];
+      
+        point.eachLayer(function(layer) {
+            
+            heatPoints.push([layer.feature.geometry.coordinates[1], layer.feature.geometry.coordinates[0]]);
+            
+        })
         
-        data.features.forEach(function(feature){
-            heatPoints.push([feature.geometry.coordinates[1], feature.geometry.coordinates[0]]);
-        });
+        console.log(heatPoints);
         
         heatLayer = L.heatLayer(heatPoints, {maxZoom: 18}).addTo(map);
         
@@ -298,13 +304,7 @@
         
         L.control.layers(null, layers, { collapsed:false }).addTo(map);
     }
-    
-    
-    
-    
-        
-
-    
+     
 </script>
 </body>
 </html>
