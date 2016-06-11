@@ -92,6 +92,7 @@
             width: 33%;
             background: #C3E0F8;
             border-right: 2px solid #071D70;
+            overflow-y: scroll;
         }
         h1 {
             padding: 8px 25px 8px 15px;
@@ -138,9 +139,9 @@
 <body>
     
     <div id="side-panel">
-    <h1>University of Kentucky's Reported Thefts</h1>
-    <h2>2013 to 2016 Analysis of Thefts across the University of Kentucky</h2>
-    <p>This map is a study of all reported thefts that occurred on the University of Kentucky's campus. The map will also convert to a heat map by selecting the button in the upper right hand corner. Simply click again to turn off the heat map.</p> 
+    <h1>University of Kentucky's Reported Offenses</h1>
+    <h2>2013 to 2016 Analysis of Crimes Across the University of Kentucky</h2>
+    <p>This map is a study of all reported criminal offenses that occurred on the University of Kentucky's campus. The following list is a list of offenses you can enter into the search bar and see how they compare across campus. <ul> <li>Theft</li><li>Robbery</li><li>Drug Violations</li><li>Alcohol Intoxication</li><li>Criminal Mischief</li><li>DUI</li><li>Harassment</li><li>Burglary</li><li>Assault</li></ul> The map will also convert to a heat map by selecting the button in the upper right hand corner. Simply click again to turn off the heat map.</p> 
     <p>This map was authored by Logan Steele for MAP 673. This map was created on June 5, 2016. The data for this map was gathered from an open source that is available to the public found at <a href="http://www.uky.edu/crimelog/">University of Kentucky's Police Department Crime Log</a>. </p>
     
     </div>
@@ -183,13 +184,10 @@
         tempRemoved = L.layerGroup();
     
     var heatLayer;
-    
-    drawMap();
 
-    function drawMap(){
-    $.getJSON('https://lsteele.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM full_crime_log_1', function(data) {
+     $.getJSON('https://lsteele.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM full_crime_log_1', function(data) {
 
-        point = L.geoJson(data, {
+        point = L.geoJson(null, {
             pointToLayer: function(feature, latlng) {
                 return L.circleMarker(latlng, {
                     color: 'red',
@@ -198,12 +196,13 @@
                     fillColor: '#6E84D6',
                     radius: 7
                 });
+            var offense = String(prompt("Enter data", "Enter the offense you would like to see"));
             },
             filter: function(feature, layer){
-              return feature.properties.month == 1;  
+              return feature.properties.month ==1;  
             },
             filter: function(feature){
-                if(feature.properties.category === "Theft"){
+                if(feature.properties.category === offense){
                     return feature;
                 }
             }
@@ -234,11 +233,10 @@
                     info.css({"left": e.pageX - info.width() - 30});
                    }
         });
-    })
-        createSliderUI();
-        makeHeatMap(point);
+         createSliderUI();
+         makeHeatMap(point);
+    });
     
-    }
     function updateMap() {
         
         tempRemoved.eachLayer(function(layer) {
@@ -273,14 +271,14 @@
                 updateMap();
         });
     }
-    
-    function makeHeatMap(data, point){
-        
+       function makeHeatMap(point) {
+           console.log(point)
         var heatPoints = [];
-        
-        data.features.forEach(function(feature){
-            heatPoints.push([feature.geometry.coordinates[1], feature.geometry.coordinates[0]]);
-        });
+           
+           point.eachLayer(function(layer) {
+               heatPoints.push([layer.feature.geometry.coordinates[1], layer.feature.geometry.coordinates[0]]);
+           })
+        console.log(heatPoints);
         
         heatLayer = L.heatLayer(heatPoints, {maxZoom: 18}).addTo(map);
         
@@ -296,15 +294,9 @@
             "crime locations": point
         }
         
-        L.control.layers(null, layers, { collapsed:false }).addTo(map);
+        L.control.layers(null, layers, {collapsed:false }).addTo(map);
     }
-    
-    
-    
-    
-        
-
-    
+     
 </script>
 </body>
 </html>

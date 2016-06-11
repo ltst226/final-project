@@ -1,0 +1,74 @@
+function makeHeatMap(data) {
+        
+         heatLayer = L.heatLayer([0,0], {maxZoom: 18}).addTo(map);
+         updateHeatMap(data);
+         sliderUI(data);
+         healthUI(data);
+         filterUI(data);
+         addZoomLayerControl();
+         infoWindow();
+    }
+        
+    function updateHeatMap(data) {
+        
+        // empty array to collect point locations
+        var heatPoints = [];
+        
+        // loop through data and push lat/lon coords to array
+        data.features.forEach(function(feature) {
+            
+            if(selectedCrime != 'all') {
+            
+                if(feature.properties.Type === selectedCrime) {
+                    if(currentDate === '1') {
+                        if(feature.properties.Crime_Date <= sliderDateKey[currentDate]) {
+                           heatPoints.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
+                        }
+                    } else {
+                        if(feature.properties.Crime_Date > sliderDateKey[currentDate-1] && feature.properties.Crime_Date <= sliderDateKey[currentDate]) {
+                           heatPoints.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
+                        }
+                    }
+                }
+                
+            } else {
+                
+               if(currentDate === '1') {
+                    if(feature.properties.Crime_Date <= sliderDateKey[currentDate]) {
+                       heatPoints.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
+                    }
+                } else {
+                    if(feature.properties.Crime_Date > sliderDateKey[currentDate-1] && feature.properties.Crime_Date <= sliderDateKey[currentDate]) {
+                       heatPoints.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
+                    }
+                } 
+                
+                
+            }
+            
+            
+        });
+        
+        // console.log(heatPoints.length)
+        
+        // create the heat layer with array
+        heatLayer.setLatLngs(heatPoints);
+        heatLayer.redraw();
+          
+       
+    }
+
+function addZoomLayerControl() {
+        
+        
+        map.on('zoomend', function() {
+            var currentZoom = map.getZoom();
+            if(currentZoom > 15) {
+                map.removeLayer(heatLayer);
+                map.addLayer(crimeLayer);
+            } else {
+                map.removeLayer(crimeLayer);
+                map.addLayer(heatLayer);
+            }
+            
+        });
