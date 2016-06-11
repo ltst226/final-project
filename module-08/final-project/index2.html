@@ -183,7 +183,11 @@
          attribute = 1,
          tempRemoved = L.layerGroup();
      
+     var offense = String(prompt("Enter data:" <ul> <li>"Theft"</li><li>"Robbery"</li><li>"Drug Violations"</li><li>"Alcohol Intoxication"</li><li>"Criminal Mischief"</li><li>"DUI"</li><li>"Harassment"</li><li>"Burglary"</li><li>"Assault</li></ul>", "Enter the offense you would like to see"));
+     
      var heatLayer;
+     
+     zoomLayer();
      
      $.getJSON('https://lsteele.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM full_crime_log_1', function(data) {
          
@@ -200,7 +204,7 @@
                  })
              },
              filter: function(feature){
-                 if(feature.properties.month === attribute){
+                 if(feature.properties.category === offense){
                     /* if(feature.properties.category === "Theft"){
                      return feature;
                     }*/     //trying to filter out the first month of data to load upon opening the webpage. However, when I move the slider it will hide all of the months after it is moved. When the filter is not here, all of the data is loaded upon opening the webpage and the slider works appropriately. 
@@ -235,7 +239,6 @@
          
         createSliderUI(data);
         makeHeatMap(point);
-        zoomLayer();
         
     });
 
@@ -265,7 +268,7 @@
         slider.on('input change', function() {
             attribute = $(this).val();
             updateMap();
-            //updateHeatMap(point);  trying to update the heatmap as the slider goes
+            updateHeatMap(point);  //trying to update the heatmap as the slider goes
             
         })
     } 
@@ -315,21 +318,53 @@
          });
      }
      
-/*     function updateHeatMap(point){  attempt to redraw the heatmap with the redraw; however, it just adds the same layer and makes the heatmap darker
+     function updateHeatMap(point){  //attempt to redraw the heatmap with the redraw; however, it just adds the same layer and makes the heatmap darker
          
          var heatPoints = [];
          
          point.eachLayer(function(layer) {
+         
+            if(offense != 'all') {
             
-         heatPoints.push([layer.feature.geometry.coordinates[1], layer.feature.geometry.coordinates[0]]);
+                if(layer.feature.properties.category === offense) {
+                    if(attribute === 1) {
+                        if(layer.feature.properties.month <= attribute) {
+                           heatPoints.push([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]]);
+                        }
+                    } else {
+                        if(layer.feature.properties.month > attribute-1 && layer.feature.properties.month <= 
+
+attribute) {
+                           heatPoints.push([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]]);
+                        }
+                    }
+                }
+                
+            } else {
+                
+               if(attribute === 1) {
+                    if(layer.feature.properties.month <= attribute) {
+                       heatPoints.push([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]]);
+                    }
+                } else {
+                    if(layer.feature.properties.month > attribute-1 && layer.feature.properties.month <=
+
+attribute) {
+                       heatPoints.push([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]]);
+                    }
+                } 
+                
+                
+            }
             
-         })
+            
+        });
          
          
-         heatLayer = L.heatLayer(heatPoints, {maxZoom: 18}).addTo(map);
+         heatLayer.setLatLngs(heatPoints)
          
          heatLayer.redraw(); 
-     }*/
+     }
         
  </script>
  </body>
