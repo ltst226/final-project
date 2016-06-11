@@ -180,7 +180,7 @@
      var point,
          min = 1,
          max = 17,
-         attribute = "1",
+         attribute = 1,
          tempRemoved = L.layerGroup();
      
      var heatLayer;
@@ -200,10 +200,10 @@
                  })
              },
              filter: function(feature){
-                 if(feature.properties.category === "Theft"){
-                   /*  if(feature.properties.month == attribute){
+                 if(feature.properties.month === attribute){
+                    /* if(feature.properties.category === "Theft"){
                      return feature;
-                    }*/
+                    }*/     //trying to filter out the first month of data to load upon opening the webpage. However, when I move the slider it will hide all of the months after it is moved. When the filter is not here, all of the data is loaded upon opening the webpage and the slider works appropriately. 
                 return feature;
                  }
              }
@@ -265,7 +265,7 @@
         slider.on('input change', function() {
             attribute = $(this).val();
             updateMap();
-            updateHeatMap(point);
+            //updateHeatMap(point);  trying to update the heatmap as the slider goes
             
         })
     } 
@@ -315,7 +315,7 @@
          });
      }
      
-     function updateHeatMap(point){
+/*     function updateHeatMap(point){  attempt to redraw the heatmap with the redraw; however, it just adds the same layer and makes the heatmap darker
          
          var heatPoints = [];
          
@@ -328,8 +328,8 @@
          
          heatLayer = L.heatLayer(heatPoints, {maxZoom: 18}).addTo(map);
          
-         heatLayer.redraw();
-     }
+         heatLayer.redraw(); 
+     }*/
         
  </script>
  </body>
