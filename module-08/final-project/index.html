@@ -134,6 +134,9 @@
              z-index: 100;
              background: #C3E0F8;
          }
+         .leaflet-control-layers-group-name{
+             font-weight: bold;
+         }
      </style>
  </head>
  <body>
@@ -141,7 +144,7 @@
      <div id="side-panel">
      <h1>University of Kentucky's Reported Thefts</h1>
      <h2>2013 to 2016 Analysis of Thefts across the University of Kentucky</h2>
-     <p>This map is a study of all reported criminal offenses that occurred on the University of Kentucky's campus. The following list is a list of offenses you can enter into the search bar and see how they compare across campus. <ul> <li>Theft</li><li>Robbery</li><li>Drug Violations</li><li>Alcohol Intoxication</li><li>Criminal Mischief</li><li>DUI</li><li>Harassment</li><li>Burglary</li><li>Assault</li></ul> The map will also convert to a heat map by selecting the button in the upper right hand corner. Simply click again to turn off the heat map</p> 
+     <p>This map is a study of all reported criminal offenses that occurred on the University of Kentucky's campus. The following list is a list of offenses you can enter into the search bar and see how they compare across campus. The map will also convert to a heat map by selecting the button in the upper right hand corner. Simply click again to turn off the heat map</p> 
      <p>This map was authored by Logan Steele for MAP 673. This map was created on June 5, 2016. The data for this map was gathered from an open source that is available to the public found at <a href="http://www.uky.edu/crimelog/">University of Kentucky's Police Department Crime Log</a>. </p>
      
      </div>
@@ -164,7 +167,9 @@
          minZoom: 4,
          maxZoom: 20,
          dragging: true,
-         zoomControl: true
+         zoomControl: true,
+         maxBounds: L.latLngBounds([38.06, -84.55],[38.00, -84.45])
+         
      }
      
      var map = L.map('map', options);
@@ -180,19 +185,14 @@
      var point,
          min = 1,
          max = 17,
-         attribute = 1,
-         tempRemoved = L.layerGroup(),
-         offense = "Theft"
+         attribute = '1',
+         tempRemoved = L.layerGroup();
      
-     //var offense = String(prompt("Enter data:" <ul> <li>"Theft"</li><li>"Robbery"</li><li>"Drug Violations"</li><li>"Alcohol Intoxication"</li><li>"Criminal Mischief"</li><li>"DUI"</li><li>"Harassment"</li><li>"Burglary"</li><li>"Assault</li></ul>", "Enter the offense you would like to see"));
+     var offense = String(prompt("Theft, Robbery, Drug Violations, Alcohol Intoxication, Criminal Mischief, DUI, Harassment, Burglary, Assault, All Other Offenses", "Enter the offense you would like to see"));
      
-     var heatLayer;
      
-     zoomLayer();
-     
-     $.getJSON('https://lsteele.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM full_crime_log_1', function(data) {
+     $.getJSON('https://lsteele.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM crimes2_1', function(data) {
          
-         //var offense = String(prompt("Enter data", "Enter the offense you would like to see"));
  
          point = L.geoJson(data, {
              pointToLayer: function(feature, latlng) {
@@ -206,13 +206,16 @@
              },
              filter: function(feature){
                  if(feature.properties.category === offense){
-                    /* if(feature.properties.category === "Theft"){
-                     return feature;
-                    }*/     //trying to filter out the first month of data to load upon opening the webpage. However, when I move the slider it will hide all of the months after it is moved. When the filter is not here, all of the data is loaded upon opening the webpage and the slider works appropriately. 
-                return feature;
+                    return feature;
                  }
              }
-         }).addTo(map);
+         });
+         
+         heatLayer = L.heatLayer([0,0], {maxZoom: 18}).addTo(map);
+         
+         addControls();
+         
+         point.addTo(map);
          
          var info = $('#info');
          info.hide();
@@ -238,8 +241,11 @@
                     }
          });
          
+         
         createSliderUI(data);
-        makeHeatMap(point);
+        zoomLayer();
+        updateHeatMap(point);
+        updateMap();
         
     });
 
@@ -252,12 +258,11 @@
          });
          point.eachLayer(function(layer) {
              
-             if(String(layer.feature.properties.month) !== attribute) {
+             if (String(layer.feature.properties.month) !== String(attribute)) {
                  tempRemoved.addLayer(layer);
                  map.removeLayer(layer);
              }
          });
-         
      }
      
          
@@ -269,39 +274,19 @@
         slider.on('input change', function() {
             attribute = $(this).val();
             updateMap();
-            updateHeatMap(point);  //trying to update the heatmap as the slider goes
+            updateHeatMap(point);
             
         })
     } 
-
-     
-    function makeHeatMap(point){
-        
-         
-         var heatPoints = [];
-      
-        point.eachLayer(function(layer) {
-            
-            heatPoints.push([layer.feature.geometry.coordinates[1], layer.feature.geometry.coordinates[0]]);
-            
-        })
-         
-         
-         heatLayer = L.heatLayer(heatPoints, {maxZoom: 18}).addTo(map);
-         
-         addControls();
-         
-         point.addTo(map);
-     }
      
      function addControls(){
          
-         var layers = {
-             "heat": heatLayer,
-             "crime locations": point
+        var layers = {
+             "Heat Map": heatLayer,
+             "Crime Location": point
          }
          
-         L.control.layers(null, layers, { collapsed:false }).addTo(map);
+         L.control.layers(null, layers, {collapsed:false, autoZIndex: true}).addTo(map);
      }
      
      function zoomLayer() {
@@ -319,48 +304,43 @@
          });
      }
      
-     function updateHeatMap(point){  //attempt to redraw the heatmap with the redraw; however, it just adds the same layer and makes the heatmap darker
+     function updateHeatMap(point){
          
          var heatPoints = [];
          
          point.eachLayer(function(layer) {
-         
-            if(offense != 'all') {
             
                 if(layer.feature.properties.category === offense) {
+                    
                     if(attribute === 1) {
+                        
                         if(layer.feature.properties.month <= attribute) {
+                            
                            heatPoints.push([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]]);
                         }
                     } else {
-                        if(layer.feature.properties.month > attribute-1 && layer.feature.properties.month <= 
-
-attribute) {
+                        
+                        if(layer.feature.properties.month > attribute-1 && layer.feature.properties.month <= attribute) {
+                            
                            heatPoints.push([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]]);
                         }
                     }
-                }
-                
             } else {
                 
                if(attribute === 1) {
                     if(layer.feature.properties.month <= attribute) {
+                        
                        heatPoints.push([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]]);
                     }
                 } else {
-                    if(layer.feature.properties.month > attribute-1 && layer.feature.properties.month <=
-
-attribute) {
+                    
+                    if(layer.feature.properties.month > attribute-1 && layer.feature.properties.month <= attribute) {
+                        
                        heatPoints.push([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]]);
                     }
-                } 
-                
-                
+                }     
             }
-            
-            
-        });
-         
+        });  
          
          heatLayer.setLatLngs(heatPoints)
          
